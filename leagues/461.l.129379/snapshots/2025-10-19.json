@@ -1,0 +1,7219 @@
+{
+  "meta":{
+    "league_id":"461.l.129379",
+    "league_name":"Last Second League",
+    "generated_at":"2025-10-19T05:53:49.103184+00:00",
+    "season":2025
+  },
+  "standings":[
+    [
+      "team_key",
+      "Team",
+      "Wins",
+      "Losses",
+      "Ties",
+      "Points For",
+      "Points Against"
+    ],
+    [
+      "461.l.129379.t.9",
+      "Maxx Cats",
+      5,
+      1,
+      0,
+      1076.8,
+      978.8000000000001
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich’s Hail Mary",
+      4,
+      2,
+      0,
+      1071.06,
+      909.04
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      4,
+      2,
+      0,
+      1031.06,
+      990.8199999999999
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      3,
+      3,
+      0,
+      991.24,
+      1006.9799999999999
+    ],
+    [
+      "461.l.129379.t.8",
+      "Who do I Venmo",
+      3,
+      3,
+      0,
+      972.54,
+      899.1800000000001
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      3,
+      3,
+      0,
+      882.08,
+      922.54
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      2,
+      4,
+      0,
+      913.7,
+      895.6800000000001
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      2,
+      4,
+      0,
+      903.28,
+      934.72
+    ],
+    [
+      "461.l.129379.t.1",
+      "Fourth and Deez",
+      2,
+      4,
+      0,
+      883.9,
+      992.2199999999999
+    ],
+    [
+      "461.l.129379.t.3",
+      "O’Football Team",
+      2,
+      4,
+      0,
+      832.8,
+      1028.48
+    ]
+  ],
+  "rosters":[
+    [
+      "team_key",
+      "Team",
+      "Manager",
+      "Player",
+      "Pos",
+      "NFL Team",
+      "Status",
+      "Ownership%"
+    ],
+    [
+      "461.l.129379.t.9",
+      "Maxx Cats",
+      "Unknown",
+      "Jared Goff",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.9",
+      "Maxx Cats",
+      "Unknown",
+      "Tetairoa McMillan",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.9",
+      "Maxx Cats",
+      "Unknown",
+      "Davante Adams",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.9",
+      "Maxx Cats",
+      "Unknown",
+      "Jonathan Taylor",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.9",
+      "Maxx Cats",
+      "Unknown",
+      "Bijan Robinson",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.9",
+      "Maxx Cats",
+      "Unknown",
+      "Michael Mayer",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.9",
+      "Maxx Cats",
+      "Unknown",
+      "Javonte Williams",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.9",
+      "Maxx Cats",
+      "Unknown",
+      "Garrett Wilson",
+      "WR",
+      "",
+      "D",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.9",
+      "Maxx Cats",
+      "Unknown",
+      "Rashid Shaheed",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.9",
+      "Maxx Cats",
+      "Unknown",
+      "Brock Bowers",
+      "TE",
+      "",
+      "D",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.9",
+      "Maxx Cats",
+      "Unknown",
+      "Tony Pollard",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.9",
+      "Maxx Cats",
+      "Unknown",
+      "Jaylen Warren",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.9",
+      "Maxx Cats",
+      "Unknown",
+      "Jerry Jeudy",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.9",
+      "Maxx Cats",
+      "Unknown",
+      "Harrison Butker",
+      "K",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.9",
+      "Maxx Cats",
+      "Unknown",
+      "Los Angeles",
+      "DEF",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich’s Hail Mary",
+      "Unknown",
+      "Dak Prescott",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich’s Hail Mary",
+      "Unknown",
+      "Jaylen Waddle",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich’s Hail Mary",
+      "Unknown",
+      "Chris Olave",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich’s Hail Mary",
+      "Unknown",
+      "Christian McCaffrey",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich’s Hail Mary",
+      "Unknown",
+      "Kyren Williams",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich’s Hail Mary",
+      "Unknown",
+      "Harold Fannin Jr.",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich’s Hail Mary",
+      "Unknown",
+      "George Pickens",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich’s Hail Mary",
+      "Unknown",
+      "Dalton Kincaid",
+      "TE",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich’s Hail Mary",
+      "Unknown",
+      "Justin Herbert",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich’s Hail Mary",
+      "Unknown",
+      "Ricky Pearsall",
+      "WR",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich’s Hail Mary",
+      "Unknown",
+      "Terry McLaurin",
+      "WR",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich’s Hail Mary",
+      "Unknown",
+      "Hassan Haskins",
+      "RB",
+      "",
+      "Q",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich’s Hail Mary",
+      "Unknown",
+      "Zach Ertz",
+      "TE",
+      "",
+      "Q",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich’s Hail Mary",
+      "Unknown",
+      "Matt Gay",
+      "K",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich’s Hail Mary",
+      "Unknown",
+      "Kansas City",
+      "DEF",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich’s Hail Mary",
+      "Unknown",
+      "Braelon Allen",
+      "RB",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "Jayden Daniels",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "Justin Jefferson",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "KaVontae Turpin",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "Jacory Croskey-Merritt",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "Cam Skattebo",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "Jake Ferguson",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "Kenneth Walker III",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "Deebo Samuel",
+      "WR",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "Puka Nacua",
+      "WR",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "RJ Harvey",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "Bo Nix",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "Keon Coleman",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "Zach Charbonnet",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "Jason Myers",
+      "K",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "Denver",
+      "DEF",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "Aaron Jones Sr.",
+      "RB",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "Brandon Aiyuk",
+      "WR",
+      "",
+      "PUP-R",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      "Unknown",
+      "Drake Maye",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      "Unknown",
+      "Ja'Marr Chase",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      "Unknown",
+      "Rome Odunze",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      "Unknown",
+      "De'Von Achane",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      "Unknown",
+      "Rico Dowdle",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      "Unknown",
+      "Tyler Warren",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      "Unknown",
+      "Matthew Golden",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      "Unknown",
+      "Marvin Harrison Jr.",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      "Unknown",
+      "Woody Marks",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      "Unknown",
+      "Calvin Ridley",
+      "WR",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      "Unknown",
+      "Jordan Love",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      "Unknown",
+      "Kaleb Johnson",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      "Unknown",
+      "Brian Robinson Jr.",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      "Unknown",
+      "Cameron Dicker",
+      "K",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      "Unknown",
+      "Indianapolis",
+      "DEF",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      "Unknown",
+      "Omarion Hampton",
+      "RB",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.8",
+      "Who do I Venmo",
+      "Unknown",
+      "Patrick Mahomes",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.8",
+      "Who do I Venmo",
+      "Unknown",
+      "Stefon Diggs",
+      "WR",
+      "",
+      "Q",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.8",
+      "Who do I Venmo",
+      "Unknown",
+      "Mike Evans",
+      "WR",
+      "",
+      "Q",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.8",
+      "Who do I Venmo",
+      "Unknown",
+      "Jahmyr Gibbs",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.8",
+      "Who do I Venmo",
+      "Unknown",
+      "Josh Jacobs",
+      "RB",
+      "",
+      "Q",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.8",
+      "Who do I Venmo",
+      "Unknown",
+      "Dallas Goedert",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.8",
+      "Who do I Venmo",
+      "Unknown",
+      "Courtland Sutton",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.8",
+      "Who do I Venmo",
+      "Unknown",
+      "Travis Kelce",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.8",
+      "Who do I Venmo",
+      "Unknown",
+      "Michael Pittman Jr.",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.8",
+      "Who do I Venmo",
+      "Unknown",
+      "Marvin Mims Jr.",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.8",
+      "Who do I Venmo",
+      "Unknown",
+      "Jakobi Meyers",
+      "WR",
+      "",
+      "Q",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.8",
+      "Who do I Venmo",
+      "Unknown",
+      "Ka'imi Fairbairn",
+      "K",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.8",
+      "Who do I Venmo",
+      "Unknown",
+      "Jake Elliott",
+      "K",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.8",
+      "Who do I Venmo",
+      "Unknown",
+      "New England",
+      "DEF",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.8",
+      "Who do I Venmo",
+      "Unknown",
+      "Philadelphia",
+      "DEF",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      "Unknown",
+      "Kyler Murray",
+      "QB",
+      "",
+      "Q",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      "Unknown",
+      "Ladd McConkey",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      "Unknown",
+      "Nico Collins",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      "Unknown",
+      "TreVeyon Henderson",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      "Unknown",
+      "Rhamondre Stevenson",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      "Unknown",
+      "Tucker Kraft",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      "Unknown",
+      "Cooper Kupp",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      "Unknown",
+      "Travis Hunter",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      "Unknown",
+      "Zay Flowers",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      "Unknown",
+      "Josh Allen",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      "Unknown",
+      "Alvin Kamara",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      "Unknown",
+      "T.J. Hockenson",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      "Unknown",
+      "Sean Tucker",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      "Unknown",
+      "Wil Lutz",
+      "K",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      "Unknown",
+      "Carolina",
+      "DEF",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      "Unknown",
+      "Malik Nabers",
+      "WR",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "Daniel Jones",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "Amon-Ra St. Brown",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "Rashee Rice",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "Quinshon Judkins",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "Jordan Mason",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "Sam LaPorta",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "DK Metcalf",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "Brian Thomas Jr.",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "Kenneth Gainwell",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "Keenan Allen",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "Bucky Irving",
+      "RB",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "Chuba Hubbard",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "Kendrick Bourne",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "Eddy Pineiro",
+      "K",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "Seattle",
+      "DEF",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "Brock Purdy",
+      "QB",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "Joe Burrow",
+      "QB",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      "Unknown",
+      "Justin Fields",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      "Unknown",
+      "Jaxon Smith-Njigba",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      "Unknown",
+      "Xavier Worthy",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      "Unknown",
+      "Saquon Barkley",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      "Unknown",
+      "Chase Brown",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      "Unknown",
+      "George Kittle",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      "Unknown",
+      "Jameson Williams",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      "Unknown",
+      "Jordan Addison",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      "Unknown",
+      "Travis Etienne Jr.",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      "Unknown",
+      "Emeka Egbuka",
+      "WR",
+      "",
+      "Q",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      "Unknown",
+      "Lamar Jackson",
+      "QB",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      "Unknown",
+      "Kendre Miller",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      "Unknown",
+      "Jauan Jennings",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      "Unknown",
+      "Brandon Aubrey",
+      "K",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      "Unknown",
+      "Pittsburgh",
+      "DEF",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      "Unknown",
+      "Trey Benson",
+      "RB",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.1",
+      "Fourth and Deez",
+      "Unknown",
+      "Baker Mayfield",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.1",
+      "Fourth and Deez",
+      "Unknown",
+      "Drake London",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.1",
+      "Fourth and Deez",
+      "Unknown",
+      "A.J. Brown",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.1",
+      "Fourth and Deez",
+      "Unknown",
+      "Kimani Vidal",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.1",
+      "Fourth and Deez",
+      "Unknown",
+      "David Montgomery",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.1",
+      "Fourth and Deez",
+      "Unknown",
+      "Hunter Henry",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.1",
+      "Fourth and Deez",
+      "Unknown",
+      "Rachaad White",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.1",
+      "Fourth and Deez",
+      "Unknown",
+      "James Cook III",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.1",
+      "Fourth and Deez",
+      "Unknown",
+      "Derrick Henry",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.1",
+      "Fourth and Deez",
+      "Unknown",
+      "Jalen Hurts",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.1",
+      "Fourth and Deez",
+      "Unknown",
+      "DeVonta Smith",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.1",
+      "Fourth and Deez",
+      "Unknown",
+      "Isiah Pacheco",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.1",
+      "Fourth and Deez",
+      "Unknown",
+      "Quentin Johnston",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.1",
+      "Fourth and Deez",
+      "Unknown",
+      "Chris Boswell",
+      "K",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.1",
+      "Fourth and Deez",
+      "Unknown",
+      "Miami",
+      "DEF",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.3",
+      "O’Football Team",
+      "Unknown",
+      "Matthew Stafford",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.3",
+      "O’Football Team",
+      "Unknown",
+      "CeeDee Lamb",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.3",
+      "O’Football Team",
+      "Unknown",
+      "Tee Higgins",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.3",
+      "O’Football Team",
+      "Unknown",
+      "Breece Hall",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.3",
+      "O’Football Team",
+      "Unknown",
+      "Ashton Jeanty",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.3",
+      "O’Football Team",
+      "Unknown",
+      "Trey McBride",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.3",
+      "O’Football Team",
+      "Unknown",
+      "J.K. Dobbins",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.3",
+      "O’Football Team",
+      "Unknown",
+      "D'Andre Swift",
+      "RB",
+      "",
+      "Q",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.3",
+      "O’Football Team",
+      "Unknown",
+      "Khalil Shakir",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.3",
+      "O’Football Team",
+      "Unknown",
+      "Romeo Doubs",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.3",
+      "O’Football Team",
+      "Unknown",
+      "Tua Tagovailoa",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.3",
+      "O’Football Team",
+      "Unknown",
+      "DJ Moore",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.3",
+      "O’Football Team",
+      "Unknown",
+      "Darren Waller",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.3",
+      "O’Football Team",
+      "Unknown",
+      "Jake Bates",
+      "K",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.3",
+      "O’Football Team",
+      "Unknown",
+      "Chicago",
+      "DEF",
+      "",
+      "",
+      "N/A"
+    ]
+  ],
+  "matchups":[
+    [
+      "Week",
+      "team_key_1",
+      "Team 1",
+      "team_key_2",
+      "Team 2",
+      "Score 1",
+      "Score 2",
+      "Status"
+    ]
+  ],
+  "waivers":[
+    [
+      "Player",
+      "Pos",
+      "NFL Team",
+      "Status",
+      "Ownership%"
+    ],
+    [
+      "Josh Johnson",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Andy Dalton",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Tyrod Taylor",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Russell Wilson",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Kirk Cousins",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Case Keenum",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Geno Smith",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Teddy Bridgewater",
+      "QB",
+      "",
+      "Q",
+      "N/A"
+    ],
+    [
+      "Jimmy Garoppolo",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jameis Winston",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Marcus Mariota",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Carson Wentz",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jacoby Brissett",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Brandon Allen",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Mitchell Trubisky",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Deshaun Watson",
+      "QB",
+      "",
+      "PUP-R",
+      "N/A"
+    ],
+    [
+      "Joshua Dobbs",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Nick Mullens",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Cooper Rush",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Sam Darnold",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Kyle Allen",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Drew Lock",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jarrett Stidham",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Gardner Minshew",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Trevor Lawrence",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Zach Wilson",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Trey Lance",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Mac Jones",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Davis Mills",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Kenny Pickett",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Malik Willis",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Sam Howell",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Bryce Young",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "C.J. Stroud",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Anthony Richardson Sr.",
+      "QB",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Will Levis",
+      "QB",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Aidan O'Connell",
+      "QB",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Stetson Bennett IV",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Tanner McKee",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Adrian Martinez",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Tyson Bagent",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Tommy DeVito",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Michael Penix Jr.",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Caleb Williams",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "J.J. McCarthy",
+      "QB",
+      "",
+      "Q",
+      "N/A"
+    ],
+    [
+      "Spencer Rattler",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Joe Milton III",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Emory Jones",
+      "QB",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Kedon Slovis",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Cam Ward",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jaxson Dart",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Tyler Shough",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Dillon Gabriel",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jalen Milroe",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Shedeur Sanders",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Riley Leonard",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Graham Mertz",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Kurtis Rourke",
+      "QB",
+      "",
+      "NFI-R",
+      "N/A"
+    ],
+    [
+      "Quinn Ewers",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Max Brosmer",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Hunter Dekkers",
+      "QB",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "Kyle Juszczyk",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Ameer Abdullah",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Michael Burton",
+      "RB",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Raheem Mostert",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "C.J. Ham",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Joe Mixon",
+      "RB",
+      "",
+      "NFI-R",
+      "N/A"
+    ],
+    [
+      "Kareem Hunt",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "James Conner",
+      "RB",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Jeremy McNichols",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Austin Ekeler",
+      "RB",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Patrick Ricard",
+      "RB",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "Dare Ogunbowale",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Nick Chubb",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jakob Johnson",
+      "RB",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Miles Sanders",
+      "RB",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Devin Singletary",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Alexander Mattison",
+      "RB",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Justice Hill",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Ty Johnson",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Travis Homer",
+      "RB",
+      "",
+      "Q",
+      "N/A"
+    ],
+    [
+      "Andrew Beck",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Alec Ingold",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Craig Reynolds",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "D'Ernest Johnson",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "A.J. Dillon",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Antonio Gibson",
+      "RB",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "DeeJay Dallas",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Patrick Taylor Jr.",
+      "RB",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Salvon Ahmed",
+      "RB",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Reggie Gilliam",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Najee Harris",
+      "RB",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Michael Carter",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Kene Nwangwu",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Elijah Mitchell",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Khalil Herbert",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Adam Prentice",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Dameon Pierce",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Zamir White",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Pierre Strong Jr.",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Tyler Allgeier",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jerome Ford",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Ty Chandler",
+      "RB",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Tyler Badie",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Keaontay Ingram",
+      "RB",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Tyler Goodson",
+      "RB",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "Ronnie Rivers",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Bam Knight",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Julius Chestnut",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Malik Davis",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Tyjae Spears",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Roschon Johnson",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Eric Gray",
+      "RB",
+      "",
+      "PUP-R",
+      "N/A"
+    ],
+    [
+      "Chris Rodriguez Jr.",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Kenny McIntosh",
+      "RB",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Emari Demercado",
+      "RB",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "Jacob Saylors",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Brady Russell",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Zavier Scott",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Deneric Prince",
+      "RB",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Chris Brooks",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Keaton Mitchell",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jaleel McLaughlin",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Emanuel Wilson",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Ellis Merriweather",
+      "RB",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "Hunter Luepke",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jonathon Brooks",
+      "RB",
+      "",
+      "PUP-R",
+      "N/A"
+    ],
+    [
+      "Blake Corum",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "MarShawn Lloyd",
+      "RB",
+      "",
+      "IR-R",
+      "N/A"
+    ],
+    [
+      "Ray Davis",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Isaac Guerendo",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Will Shipley",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Sione Vaki",
+      "RB",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "Jaylen Wright",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Isaiah Davis",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Rasheen Ali",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Keilan Robinson",
+      "RB",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "Tyrone Tracy Jr.",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Dylan Laube",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Cody Schrader",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "George Holani",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jack Westover",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Blake Watson",
+      "RB",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "British Brooks",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Bhayshul Tuten",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Dylan Sampson",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Trevor Etienne",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jarquez Hunter",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jordan James",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jaydon Blue",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "DJ Giddens",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Robbie Ouzts",
+      "RB",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Ollie Gordon II",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Devin Neal",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Kalel Mullings",
+      "RB",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "LeQuint Allen Jr.",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Brashard Smith",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Phil Mafah",
+      "RB",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Kyle Monangai",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Josh Williams",
+      "RB",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "Raheim Sanders",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Nathan Carter",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Kye Robichaux",
+      "RB",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Lan Larison",
+      "RB",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Brock Lampe",
+      "RB",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Jacardia Wright",
+      "RB",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "Deion Hankins",
+      "RB",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "DeAndre Hopkins",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Adam Thielen",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Brandin Cooks",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Tyler Lockett",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "DeAndre Carter",
+      "WR",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Laquon Treadwell",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Sterling Shepard",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Chris Moore",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Demarcus Robinson",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Tyreek Hill",
+      "WR",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Kalif Raymond",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Robbie Chosen",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Zay Jones",
+      "WR",
+      "",
+      "Q",
+      "N/A"
+    ],
+    [
+      "Curtis Samuel",
+      "WR",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "JuJu Smith-Schuster",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Chris Godwin Jr.",
+      "WR",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "Josh Reynolds",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Mack Hollins",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jamal Agnew",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Trent Taylor",
+      "WR",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "David Moore",
+      "WR",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Noah Brown",
+      "WR",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Tim Patrick",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Christian Kirk",
+      "WR",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "Justin Watson",
+      "WR",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Ray-Ray McCloud III",
+      "WR",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "Cedrick Wilson Jr.",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Braxton Berrios",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Allen Lazard",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Trent Sherfield Sr.",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "KhaDarel Hodge",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Malik Turner",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Hollywood Brown",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Hunter Renfrow",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Darius Slayton",
+      "WR",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "Olamide Zaccheaus",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Alex Bachman",
+      "WR",
+      "",
+      "Q",
+      "N/A"
+    ],
+    [
+      "D.J. Montgomery",
+      "WR",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Ashton Dulin",
+      "WR",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "David Sills V",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Lil'Jordan Humphrey",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Greg Dortch",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Gunner Olszewski",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Van Jefferson",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Devin Duvernay",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Gabe Davis",
+      "WR",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "Tyler Johnson",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Darnell Mooney",
+      "WR",
+      "",
+      "Q",
+      "N/A"
+    ],
+    [
+      "Nick Westbrook-Ikhine",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Rashod Bateman",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Elijah Moore",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Rondale Moore",
+      "WR",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Dee Eskridge",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Tutu Atwell",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Joshua Palmer",
+      "WR",
+      "",
+      "Q",
+      "N/A"
+    ],
+    [
+      "Dyami Brown",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Tylan Wallace",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Simi Fehoko",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jahan Dotson",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Christian Watson",
+      "WR",
+      "",
+      "PUP-R",
+      "N/A"
+    ],
+    [
+      "Wan'Dale Robinson",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "John Metchie III",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Tyquan Thornton",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Alec Pierce",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Skyy Moore",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jalen Tolbert",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jalen Nailor",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Bo Melton",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Dareke Young",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Irvin Charles",
+      "WR",
+      "",
+      "PUP-R",
+      "N/A"
+    ],
+    [
+      "Jayden Reed",
+      "WR",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Jonathan Mingo",
+      "WR",
+      "",
+      "IR-R",
+      "N/A"
+    ],
+    [
+      "Cedric Tillman",
+      "WR",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Tank Dell",
+      "WR",
+      "",
+      "PUP-R",
+      "N/A"
+    ],
+    [
+      "Tre Tucker",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Michael Wilson",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Josh Downs",
+      "WR",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "Jalin Hyatt",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Derius Davis",
+      "WR",
+      "",
+      "Q",
+      "N/A"
+    ],
+    [
+      "Justin Shorter",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Dontayvion Wicks",
+      "WR",
+      "",
+      "Q",
+      "N/A"
+    ],
+    [
+      "DeMario Douglas",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Trey Palmer",
+      "WR",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Kayshon Boutte",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Xavier Hutchinson",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Parker Washington",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Xavier Smith",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Brycen Tremayne",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Malik Heath",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jake Bobo",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Shedrick Jackson",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Bryce Ford-Wheaton",
+      "WR",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Xavier Gipson",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Nikko Remigio",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Tyrell Shavers",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Ryan Miller",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Xavier Legette",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Ja'Lynn Polk",
+      "WR",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Adonai Mitchell",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Malachi Corley",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jalen McMillan",
+      "WR",
+      "",
+      "IR-R",
+      "N/A"
+    ],
+    [
+      "Luke McCaffrey",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Devontez Walker",
+      "WR",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "Jacob Cowing",
+      "WR",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Troy Franklin",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jamari Thrash",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Bub Means",
+      "WR",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Anthony Gould",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Malik Washington",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Casey Washington",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jordan Whittington",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Ryan Flournoy",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Johnny Wilson",
+      "WR",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Devaughn Vele",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Tahj Washington",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Mason Tipton",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Xavier Weaver",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Bryce Oliver",
+      "WR",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "Dayton Wade",
+      "WR",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Jalen Coker",
+      "WR",
+      "",
+      "Q",
+      "N/A"
+    ],
+    [
+      "Kameron Johnson",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Joshua Cephus",
+      "WR",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Isaiah Williams",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jayden Higgins",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Luther Burden III",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Tre' Harris",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jack Bech",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Savion Williams",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Tai Felton",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Pat Bryant",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Kyle Williams",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Isaac TeSlaa",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jaylin Noel",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jalen Royals",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Dont'e Thornton Jr.",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Arian Smith",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Chimere Dike",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Elic Ayomanor",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jordan Watkins",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jaylin Lane",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "KeAndre Lambert-Smith",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Tory Horton",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jimmy Horn Jr.",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "LaJohntay Wester",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Tez Johnson",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Konata Mumpfield",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Dominic Lovett",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Beaux Collins",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Da'Quan Felton",
+      "WR",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Efton Chism III",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jahmal Banks",
+      "WR",
+      "",
+      "SUSP",
+      "N/A"
+    ],
+    [
+      "Myles Price",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jahdae Walker",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Gage Larvadain",
+      "WR",
+      "",
+      "Q",
+      "N/A"
+    ],
+    [
+      "Darius Cooper",
+      "WR",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Cade McDonald",
+      "WR",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Isaiah Bond",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Chris Manhertz",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Austin Hooper",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Tyler Higbee",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Mo Alie-Cox",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Evan Engram",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "David Njoku",
+      "TE",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "Eric Saubert",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Johnny Mundt",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Taysom Hill",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Robert Tonyan",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Mark Andrews",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Ian Thomas",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Will Dissly",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Durham Smythe",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Dalton Schultz",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Tyler Conklin",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Ross Dwelley",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Josh Oliver",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Dawson Knox",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Foster Moreau",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Tyree Jackson",
+      "TE",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Cole Kmet",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Josiah Deguara",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Adam Trautman",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Harrison Bryant",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Colby Parkinson",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Charlie Woerner",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Stephen Sullivan",
+      "TE",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "Juwan Johnson",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Kyle Pitts Sr.",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Hunter Long",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Tommy Tremble",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "John Bates",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Kylen Granson",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Luke Farrell",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Brevin Jordan",
+      "TE",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Noah Gray",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Kenny Yeboah",
+      "TE",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Feleipe Franks",
+      "TE",
+      "",
+      "Q",
+      "N/A"
+    ],
+    [
+      "Brock Wright",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Shane Zylstra",
+      "TE",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Quintin Morris",
+      "TE",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "Jack Stoll",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jelani Woods",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jeremy Ruckert",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Daniel Bellinger",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Charlie Kolar",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Isaiah Likely",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Chig Okonkwo",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Teagan Quitoriano",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "James Mitchell",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Drew Ogletree",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Grant Calcaterra",
+      "TE",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "John FitzPatrick",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Ko Kieft",
+      "TE",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Jake Tonges",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Zaire Mitchell-Paden",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Tanner Conner",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Tucker Fisk",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Stone Smartt",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Lucas Krull",
+      "TE",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Luke Schoonmaker",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Luke Musgrave",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Brenton Strange",
+      "TE",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Cameron Latu",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Davis Allen",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Will Mallory",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Payne Durham",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Elijah Higgins",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Ben Sims",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Blake Whiteheart",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "E.J. Jenkins",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Julian Hill",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Travis Vokolek",
+      "TE",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Nate Adkins",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "John Stephens Jr.",
+      "TE",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Ben Sinnott",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Tip Reiman",
+      "TE",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Jared Wiley",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Cade Stover",
+      "TE",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Ja'Tavion Sanders",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "AJ Barner",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Theo Johnson",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Devin Culp",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Colson Yankoff",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Mason Pline",
+      "TE",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Brevyn Spann-Ford",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "David Martin-Robinson",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Brenden Bates",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Colston Loveland",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Mason Taylor",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Terrance Ferguson",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Elijah Arroyo",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Gunnar Helm",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Mitchell Evans",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Oronde Gadsden",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jackson Hawes",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Gavin Bartholomew",
+      "TE",
+      "",
+      "PUP-R",
+      "N/A"
+    ],
+    [
+      "Thomas Fidone II",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jake Briningstool",
+      "TE",
+      "",
+      "IR-R",
+      "N/A"
+    ],
+    [
+      "Jalin Conyers",
+      "TE",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Carter Runyon",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Ben Yurosek",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Nick Kallerup",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Nick Folk",
+      "K",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Matt Prater",
+      "K",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Graham Gano",
+      "K",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Justin Tucker",
+      "K",
+      "",
+      "SUSP",
+      "N/A"
+    ],
+    [
+      "Brandon McManus",
+      "K",
+      "",
+      "Q",
+      "N/A"
+    ],
+    [
+      "Cairo Santos",
+      "K",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "Daniel Carlson",
+      "K",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jason Sanders",
+      "K",
+      "",
+      "IR-R",
+      "N/A"
+    ],
+    [
+      "Michael Badgley",
+      "K",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Joey Slye",
+      "K",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Tyler Bass",
+      "K",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Riley Patterson",
+      "K",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Parker Romo",
+      "K",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Lucas Havrisik",
+      "K",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jake Moody",
+      "K",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Chad Ryland",
+      "K",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Blake Grupe",
+      "K",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Andre Szmyt",
+      "K",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Cam Little",
+      "K",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Joshua Karty",
+      "K",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Will Reichard",
+      "K",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Spencer Shrader",
+      "K",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "Jude McAtamney",
+      "K",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Andy Borregales",
+      "K",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Tyler Loop",
+      "K",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Ryan Fitzgerald",
+      "K",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Atlanta",
+      "DEF",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Buffalo",
+      "DEF",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Cleveland",
+      "DEF",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Dallas",
+      "DEF",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Detroit",
+      "DEF",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Green Bay",
+      "DEF",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Tennessee",
+      "DEF",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Las Vegas",
+      "DEF",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Minnesota",
+      "DEF",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "New Orleans",
+      "DEF",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "New York",
+      "DEF",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "New York",
+      "DEF",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Arizona",
+      "DEF",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Los Angeles",
+      "DEF",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "San Francisco",
+      "DEF",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Tampa Bay",
+      "DEF",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Jacksonville",
+      "DEF",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Baltimore",
+      "DEF",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "Houston",
+      "DEF",
+      "",
+      "",
+      "N/A"
+    ]
+  ],
+  "nfl_schedule":[
+    [
+      "Week",
+      "Home",
+      "Away",
+      "Date",
+      "Time",
+      "Stadium"
+    ],
+    [
+      1,
+      "PHI",
+      "DAL",
+      "2025-09-05",
+      "00:20 UTC",
+      "Lincoln Financial Field"
+    ],
+    [
+      1,
+      "LAC",
+      "KC",
+      "2025-09-06",
+      "00:00 UTC",
+      "Corinthians Arena"
+    ],
+    [
+      1,
+      "ATL",
+      "TB",
+      "2025-09-07",
+      "17:00 UTC",
+      "Mercedes-Benz Stadium"
+    ],
+    [
+      1,
+      "CLE",
+      "CIN",
+      "2025-09-07",
+      "17:00 UTC",
+      "Huntington Bank Field"
+    ],
+    [
+      1,
+      "IND",
+      "MIA",
+      "2025-09-07",
+      "17:00 UTC",
+      "Lucas Oil Stadium"
+    ],
+    [
+      1,
+      "NE",
+      "LV",
+      "2025-09-07",
+      "17:00 UTC",
+      "Gillette Stadium"
+    ],
+    [
+      1,
+      "NO",
+      "ARI",
+      "2025-09-07",
+      "17:00 UTC",
+      "Caesars Superdome"
+    ],
+    [
+      1,
+      "NYJ",
+      "PIT",
+      "2025-09-07",
+      "17:00 UTC",
+      "MetLife Stadium"
+    ],
+    [
+      1,
+      "WSH",
+      "NYG",
+      "2025-09-07",
+      "17:00 UTC",
+      "Northwest Stadium"
+    ],
+    [
+      1,
+      "JAX",
+      "CAR",
+      "2025-09-07",
+      "17:00 UTC",
+      "EverBank Stadium"
+    ],
+    [
+      1,
+      "DEN",
+      "TEN",
+      "2025-09-07",
+      "20:05 UTC",
+      "Empower Field at Mile High"
+    ],
+    [
+      1,
+      "SEA",
+      "SF",
+      "2025-09-07",
+      "20:05 UTC",
+      "Lumen Field"
+    ],
+    [
+      1,
+      "GB",
+      "DET",
+      "2025-09-07",
+      "20:25 UTC",
+      "Lambeau Field"
+    ],
+    [
+      1,
+      "LAR",
+      "HOU",
+      "2025-09-07",
+      "20:25 UTC",
+      "SoFi Stadium"
+    ],
+    [
+      1,
+      "BUF",
+      "BAL",
+      "2025-09-08",
+      "00:20 UTC",
+      "Highmark Stadium"
+    ],
+    [
+      1,
+      "CHI",
+      "MIN",
+      "2025-09-09",
+      "00:15 UTC",
+      "Soldier Field"
+    ],
+    [
+      2,
+      "GB",
+      "WSH",
+      "2025-09-12",
+      "00:15 UTC",
+      "Lambeau Field"
+    ],
+    [
+      2,
+      "CIN",
+      "JAX",
+      "2025-09-14",
+      "17:00 UTC",
+      "Paycor Stadium"
+    ],
+    [
+      2,
+      "DAL",
+      "NYG",
+      "2025-09-14",
+      "17:00 UTC",
+      "AT&T Stadium"
+    ],
+    [
+      2,
+      "DET",
+      "CHI",
+      "2025-09-14",
+      "17:00 UTC",
+      "Ford Field"
+    ],
+    [
+      2,
+      "TEN",
+      "LAR",
+      "2025-09-14",
+      "17:00 UTC",
+      "Nissan Stadium"
+    ],
+    [
+      2,
+      "MIA",
+      "NE",
+      "2025-09-14",
+      "17:00 UTC",
+      "Hard Rock Stadium"
+    ],
+    [
+      2,
+      "NO",
+      "SF",
+      "2025-09-14",
+      "17:00 UTC",
+      "Caesars Superdome"
+    ],
+    [
+      2,
+      "NYJ",
+      "BUF",
+      "2025-09-14",
+      "17:00 UTC",
+      "MetLife Stadium"
+    ],
+    [
+      2,
+      "PIT",
+      "SEA",
+      "2025-09-14",
+      "17:00 UTC",
+      "Acrisure Stadium"
+    ],
+    [
+      2,
+      "BAL",
+      "CLE",
+      "2025-09-14",
+      "17:00 UTC",
+      "M&T Bank Stadium"
+    ],
+    [
+      2,
+      "IND",
+      "DEN",
+      "2025-09-14",
+      "20:05 UTC",
+      "Lucas Oil Stadium"
+    ],
+    [
+      2,
+      "ARI",
+      "CAR",
+      "2025-09-14",
+      "20:05 UTC",
+      "State Farm Stadium"
+    ],
+    [
+      2,
+      "KC",
+      "PHI",
+      "2025-09-14",
+      "20:25 UTC",
+      "GEHA Field at Arrowhead Stadium"
+    ],
+    [
+      2,
+      "MIN",
+      "ATL",
+      "2025-09-15",
+      "00:20 UTC",
+      "U.S. Bank Stadium"
+    ],
+    [
+      2,
+      "HOU",
+      "TB",
+      "2025-09-15",
+      "23:00 UTC",
+      "NRG Stadium"
+    ],
+    [
+      2,
+      "LV",
+      "LAC",
+      "2025-09-16",
+      "02:00 UTC",
+      "Allegiant Stadium"
+    ],
+    [
+      3,
+      "BUF",
+      "MIA",
+      "2025-09-19",
+      "00:15 UTC",
+      "Highmark Stadium"
+    ],
+    [
+      3,
+      "CLE",
+      "GB",
+      "2025-09-21",
+      "17:00 UTC",
+      "Huntington Bank Field"
+    ],
+    [
+      3,
+      "TEN",
+      "IND",
+      "2025-09-21",
+      "17:00 UTC",
+      "Nissan Stadium"
+    ],
+    [
+      3,
+      "MIN",
+      "CIN",
+      "2025-09-21",
+      "17:00 UTC",
+      "U.S. Bank Stadium"
+    ],
+    [
+      3,
+      "NE",
+      "PIT",
+      "2025-09-21",
+      "17:00 UTC",
+      "Gillette Stadium"
+    ],
+    [
+      3,
+      "PHI",
+      "LAR",
+      "2025-09-21",
+      "17:00 UTC",
+      "Lincoln Financial Field"
+    ],
+    [
+      3,
+      "TB",
+      "NYJ",
+      "2025-09-21",
+      "17:00 UTC",
+      "Raymond James Stadium"
+    ],
+    [
+      3,
+      "WSH",
+      "LV",
+      "2025-09-21",
+      "17:00 UTC",
+      "Northwest Stadium"
+    ],
+    [
+      3,
+      "CAR",
+      "ATL",
+      "2025-09-21",
+      "17:00 UTC",
+      "Bank of America Stadium"
+    ],
+    [
+      3,
+      "JAX",
+      "HOU",
+      "2025-09-21",
+      "17:00 UTC",
+      "EverBank Stadium"
+    ],
+    [
+      3,
+      "LAC",
+      "DEN",
+      "2025-09-21",
+      "20:05 UTC",
+      "SoFi Stadium"
+    ],
+    [
+      3,
+      "SEA",
+      "NO",
+      "2025-09-21",
+      "20:05 UTC",
+      "Lumen Field"
+    ],
+    [
+      3,
+      "CHI",
+      "DAL",
+      "2025-09-21",
+      "20:25 UTC",
+      "Soldier Field"
+    ],
+    [
+      3,
+      "SF",
+      "ARI",
+      "2025-09-21",
+      "20:25 UTC",
+      "Levi's Stadium"
+    ],
+    [
+      3,
+      "NYG",
+      "KC",
+      "2025-09-22",
+      "00:20 UTC",
+      "MetLife Stadium"
+    ],
+    [
+      3,
+      "BAL",
+      "DET",
+      "2025-09-23",
+      "00:15 UTC",
+      "M&T Bank Stadium"
+    ],
+    [
+      4,
+      "ARI",
+      "SEA",
+      "2025-09-26",
+      "00:15 UTC",
+      "State Farm Stadium"
+    ],
+    [
+      4,
+      "PIT",
+      "MIN",
+      "2025-09-28",
+      "13:30 UTC",
+      "Croke Park"
+    ],
+    [
+      4,
+      "ATL",
+      "WSH",
+      "2025-09-28",
+      "17:00 UTC",
+      "Mercedes-Benz Stadium"
+    ],
+    [
+      4,
+      "BUF",
+      "NO",
+      "2025-09-28",
+      "17:00 UTC",
+      "Highmark Stadium"
+    ],
+    [
+      4,
+      "DET",
+      "CLE",
+      "2025-09-28",
+      "17:00 UTC",
+      "Ford Field"
+    ],
+    [
+      4,
+      "NE",
+      "CAR",
+      "2025-09-28",
+      "17:00 UTC",
+      "Gillette Stadium"
+    ],
+    [
+      4,
+      "NYG",
+      "LAC",
+      "2025-09-28",
+      "17:00 UTC",
+      "MetLife Stadium"
+    ],
+    [
+      4,
+      "TB",
+      "PHI",
+      "2025-09-28",
+      "17:00 UTC",
+      "Raymond James Stadium"
+    ],
+    [
+      4,
+      "HOU",
+      "TEN",
+      "2025-09-28",
+      "17:00 UTC",
+      "NRG Stadium"
+    ],
+    [
+      4,
+      "LAR",
+      "IND",
+      "2025-09-28",
+      "20:05 UTC",
+      "SoFi Stadium"
+    ],
+    [
+      4,
+      "SF",
+      "JAX",
+      "2025-09-28",
+      "20:05 UTC",
+      "Levi's Stadium"
+    ],
+    [
+      4,
+      "KC",
+      "BAL",
+      "2025-09-28",
+      "20:25 UTC",
+      "GEHA Field at Arrowhead Stadium"
+    ],
+    [
+      4,
+      "LV",
+      "CHI",
+      "2025-09-28",
+      "20:25 UTC",
+      "Allegiant Stadium"
+    ],
+    [
+      4,
+      "DAL",
+      "GB",
+      "2025-09-29",
+      "00:20 UTC",
+      "AT&T Stadium"
+    ],
+    [
+      4,
+      "MIA",
+      "NYJ",
+      "2025-09-29",
+      "23:15 UTC",
+      "Hard Rock Stadium"
+    ],
+    [
+      4,
+      "DEN",
+      "CIN",
+      "2025-09-30",
+      "00:15 UTC",
+      "Empower Field at Mile High"
+    ],
+    [
+      5,
+      "LAR",
+      "SF",
+      "2025-10-03",
+      "00:15 UTC",
+      "SoFi Stadium"
+    ],
+    [
+      5,
+      "CLE",
+      "MIN",
+      "2025-10-05",
+      "13:30 UTC",
+      "Tottenham Hotspur Stadium"
+    ],
+    [
+      5,
+      "IND",
+      "LV",
+      "2025-10-05",
+      "17:00 UTC",
+      "Lucas Oil Stadium"
+    ],
+    [
+      5,
+      "NO",
+      "NYG",
+      "2025-10-05",
+      "17:00 UTC",
+      "Caesars Superdome"
+    ],
+    [
+      5,
+      "NYJ",
+      "DAL",
+      "2025-10-05",
+      "17:00 UTC",
+      "MetLife Stadium"
+    ],
+    [
+      5,
+      "PHI",
+      "DEN",
+      "2025-10-05",
+      "17:00 UTC",
+      "Lincoln Financial Field"
+    ],
+    [
+      5,
+      "CAR",
+      "MIA",
+      "2025-10-05",
+      "17:00 UTC",
+      "Bank of America Stadium"
+    ],
+    [
+      5,
+      "BAL",
+      "HOU",
+      "2025-10-05",
+      "17:00 UTC",
+      "M&T Bank Stadium"
+    ],
+    [
+      5,
+      "ARI",
+      "TEN",
+      "2025-10-05",
+      "20:05 UTC",
+      "State Farm Stadium"
+    ],
+    [
+      5,
+      "SEA",
+      "TB",
+      "2025-10-05",
+      "20:05 UTC",
+      "Lumen Field"
+    ],
+    [
+      5,
+      "CIN",
+      "DET",
+      "2025-10-05",
+      "20:25 UTC",
+      "Paycor Stadium"
+    ],
+    [
+      5,
+      "LAC",
+      "WSH",
+      "2025-10-05",
+      "20:25 UTC",
+      "SoFi Stadium"
+    ],
+    [
+      5,
+      "BUF",
+      "NE",
+      "2025-10-06",
+      "00:20 UTC",
+      "Highmark Stadium"
+    ],
+    [
+      5,
+      "JAX",
+      "KC",
+      "2025-10-07",
+      "00:15 UTC",
+      "EverBank Stadium"
+    ],
+    [
+      6,
+      "NYG",
+      "PHI",
+      "2025-10-10",
+      "00:15 UTC",
+      "MetLife Stadium"
+    ],
+    [
+      6,
+      "NYJ",
+      "DEN",
+      "2025-10-12",
+      "13:30 UTC",
+      "Tottenham Hotspur Stadium"
+    ],
+    [
+      6,
+      "IND",
+      "ARI",
+      "2025-10-12",
+      "17:00 UTC",
+      "Lucas Oil Stadium"
+    ],
+    [
+      6,
+      "MIA",
+      "LAC",
+      "2025-10-12",
+      "17:00 UTC",
+      "Hard Rock Stadium"
+    ],
+    [
+      6,
+      "NO",
+      "NE",
+      "2025-10-12",
+      "17:00 UTC",
+      "Caesars Superdome"
+    ],
+    [
+      6,
+      "PIT",
+      "CLE",
+      "2025-10-12",
+      "17:00 UTC",
+      "Acrisure Stadium"
+    ],
+    [
+      6,
+      "CAR",
+      "DAL",
+      "2025-10-12",
+      "17:00 UTC",
+      "Bank of America Stadium"
+    ],
+    [
+      6,
+      "JAX",
+      "SEA",
+      "2025-10-12",
+      "17:00 UTC",
+      "EverBank Stadium"
+    ],
+    [
+      6,
+      "BAL",
+      "LAR",
+      "2025-10-12",
+      "17:00 UTC",
+      "M&T Bank Stadium"
+    ],
+    [
+      6,
+      "LV",
+      "TEN",
+      "2025-10-12",
+      "20:05 UTC",
+      "Allegiant Stadium"
+    ],
+    [
+      6,
+      "GB",
+      "CIN",
+      "2025-10-12",
+      "20:25 UTC",
+      "Lambeau Field"
+    ],
+    [
+      6,
+      "TB",
+      "SF",
+      "2025-10-12",
+      "20:25 UTC",
+      "Raymond James Stadium"
+    ],
+    [
+      6,
+      "KC",
+      "DET",
+      "2025-10-13",
+      "00:20 UTC",
+      "GEHA Field at Arrowhead Stadium"
+    ],
+    [
+      6,
+      "ATL",
+      "BUF",
+      "2025-10-13",
+      "23:15 UTC",
+      "Mercedes-Benz Stadium"
+    ],
+    [
+      6,
+      "WSH",
+      "CHI",
+      "2025-10-14",
+      "00:15 UTC",
+      "Northwest Stadium"
+    ],
+    [
+      7,
+      "JAX",
+      "LAR",
+      "2025-10-19",
+      "13:30 UTC",
+      "Wembley Stadium"
+    ],
+    [
+      7,
+      "CHI",
+      "NO",
+      "2025-10-19",
+      "17:00 UTC",
+      "Soldier Field"
+    ],
+    [
+      7,
+      "CLE",
+      "MIA",
+      "2025-10-19",
+      "17:00 UTC",
+      "Huntington Bank Field"
+    ],
+    [
+      7,
+      "TEN",
+      "NE",
+      "2025-10-19",
+      "17:00 UTC",
+      "Nissan Stadium"
+    ],
+    [
+      7,
+      "KC",
+      "LV",
+      "2025-10-19",
+      "17:00 UTC",
+      "GEHA Field at Arrowhead Stadium"
+    ],
+    [
+      7,
+      "MIN",
+      "PHI",
+      "2025-10-19",
+      "17:00 UTC",
+      "U.S. Bank Stadium"
+    ],
+    [
+      7,
+      "NYJ",
+      "CAR",
+      "2025-10-19",
+      "17:00 UTC",
+      "MetLife Stadium"
+    ],
+    [
+      7,
+      "DEN",
+      "NYG",
+      "2025-10-19",
+      "20:05 UTC",
+      "Empower Field at Mile High"
+    ],
+    [
+      7,
+      "LAC",
+      "IND",
+      "2025-10-19",
+      "20:05 UTC",
+      "SoFi Stadium"
+    ],
+    [
+      7,
+      "DAL",
+      "WSH",
+      "2025-10-19",
+      "20:25 UTC",
+      "AT&T Stadium"
+    ],
+    [
+      7,
+      "ARI",
+      "GB",
+      "2025-10-19",
+      "20:25 UTC",
+      "State Farm Stadium"
+    ],
+    [
+      7,
+      "SF",
+      "ATL",
+      "2025-10-20",
+      "00:20 UTC",
+      "Levi's Stadium"
+    ],
+    [
+      7,
+      "CIN",
+      "PIT",
+      "2025-10-17",
+      "00:15 UTC",
+      "Paycor Stadium"
+    ],
+    [
+      7,
+      "DET",
+      "TB",
+      "2025-10-20",
+      "23:00 UTC",
+      "Ford Field"
+    ],
+    [
+      7,
+      "SEA",
+      "HOU",
+      "2025-10-21",
+      "02:00 UTC",
+      "Lumen Field"
+    ],
+    [
+      8,
+      "LAC",
+      "MIN",
+      "2025-10-24",
+      "00:15 UTC",
+      "SoFi Stadium"
+    ],
+    [
+      8,
+      "ATL",
+      "MIA",
+      "2025-10-26",
+      "17:00 UTC",
+      "Mercedes-Benz Stadium"
+    ],
+    [
+      8,
+      "CIN",
+      "NYJ",
+      "2025-10-26",
+      "17:00 UTC",
+      "Paycor Stadium"
+    ],
+    [
+      8,
+      "NE",
+      "CLE",
+      "2025-10-26",
+      "17:00 UTC",
+      "Gillette Stadium"
+    ],
+    [
+      8,
+      "PHI",
+      "NYG",
+      "2025-10-26",
+      "17:00 UTC",
+      "Lincoln Financial Field"
+    ],
+    [
+      8,
+      "CAR",
+      "BUF",
+      "2025-10-26",
+      "17:00 UTC",
+      "Bank of America Stadium"
+    ],
+    [
+      8,
+      "BAL",
+      "CHI",
+      "2025-10-26",
+      "17:00 UTC",
+      "M&T Bank Stadium"
+    ],
+    [
+      8,
+      "HOU",
+      "SF",
+      "2025-10-26",
+      "17:00 UTC",
+      "NRG Stadium"
+    ],
+    [
+      8,
+      "NO",
+      "TB",
+      "2025-10-26",
+      "20:05 UTC",
+      "Caesars Superdome"
+    ],
+    [
+      8,
+      "DEN",
+      "DAL",
+      "2025-10-26",
+      "20:25 UTC",
+      "Empower Field at Mile High"
+    ],
+    [
+      8,
+      "IND",
+      "TEN",
+      "2025-10-26",
+      "20:25 UTC",
+      "Lucas Oil Stadium"
+    ],
+    [
+      8,
+      "PIT",
+      "GB",
+      "2025-10-27",
+      "00:20 UTC",
+      "Acrisure Stadium"
+    ],
+    [
+      8,
+      "KC",
+      "WSH",
+      "2025-10-28",
+      "00:15 UTC",
+      "GEHA Field at Arrowhead Stadium"
+    ],
+    [
+      9,
+      "MIA",
+      "BAL",
+      "2025-10-31",
+      "00:15 UTC",
+      "Hard Rock Stadium"
+    ],
+    [
+      9,
+      "CIN",
+      "CHI",
+      "2025-11-02",
+      "18:00 UTC",
+      "Paycor Stadium"
+    ],
+    [
+      9,
+      "DET",
+      "MIN",
+      "2025-11-02",
+      "18:00 UTC",
+      "Ford Field"
+    ],
+    [
+      9,
+      "GB",
+      "CAR",
+      "2025-11-02",
+      "18:00 UTC",
+      "Lambeau Field"
+    ],
+    [
+      9,
+      "TEN",
+      "LAC",
+      "2025-11-02",
+      "18:00 UTC",
+      "Nissan Stadium"
+    ],
+    [
+      9,
+      "NE",
+      "ATL",
+      "2025-11-02",
+      "18:00 UTC",
+      "Gillette Stadium"
+    ],
+    [
+      9,
+      "NYG",
+      "SF",
+      "2025-11-02",
+      "18:00 UTC",
+      "MetLife Stadium"
+    ],
+    [
+      9,
+      "PIT",
+      "IND",
+      "2025-11-02",
+      "18:00 UTC",
+      "Acrisure Stadium"
+    ],
+    [
+      9,
+      "HOU",
+      "DEN",
+      "2025-11-02",
+      "18:00 UTC",
+      "NRG Stadium"
+    ],
+    [
+      9,
+      "LV",
+      "JAX",
+      "2025-11-02",
+      "21:05 UTC",
+      "Allegiant Stadium"
+    ],
+    [
+      9,
+      "LAR",
+      "NO",
+      "2025-11-02",
+      "21:05 UTC",
+      "SoFi Stadium"
+    ],
+    [
+      9,
+      "BUF",
+      "KC",
+      "2025-11-02",
+      "21:25 UTC",
+      "Highmark Stadium"
+    ],
+    [
+      9,
+      "WSH",
+      "SEA",
+      "2025-11-03",
+      "01:20 UTC",
+      "Northwest Stadium"
+    ],
+    [
+      9,
+      "DAL",
+      "ARI",
+      "2025-11-04",
+      "01:15 UTC",
+      "AT&T Stadium"
+    ],
+    [
+      10,
+      "DEN",
+      "LV",
+      "2025-11-07",
+      "01:15 UTC",
+      "Empower Field at Mile High"
+    ],
+    [
+      10,
+      "IND",
+      "ATL",
+      "2025-11-09",
+      "14:30 UTC",
+      "Olympic Stadium Berlin"
+    ],
+    [
+      10,
+      "CHI",
+      "NYG",
+      "2025-11-09",
+      "18:00 UTC",
+      "Soldier Field"
+    ],
+    [
+      10,
+      "MIA",
+      "BUF",
+      "2025-11-09",
+      "18:00 UTC",
+      "Hard Rock Stadium"
+    ],
+    [
+      10,
+      "MIN",
+      "BAL",
+      "2025-11-09",
+      "18:00 UTC",
+      "U.S. Bank Stadium"
+    ],
+    [
+      10,
+      "NYJ",
+      "CLE",
+      "2025-11-09",
+      "18:00 UTC",
+      "MetLife Stadium"
+    ],
+    [
+      10,
+      "TB",
+      "NE",
+      "2025-11-09",
+      "18:00 UTC",
+      "Raymond James Stadium"
+    ],
+    [
+      10,
+      "CAR",
+      "NO",
+      "2025-11-09",
+      "18:00 UTC",
+      "Bank of America Stadium"
+    ],
+    [
+      10,
+      "HOU",
+      "JAX",
+      "2025-11-09",
+      "18:00 UTC",
+      "NRG Stadium"
+    ],
+    [
+      10,
+      "SEA",
+      "ARI",
+      "2025-11-09",
+      "21:05 UTC",
+      "Lumen Field"
+    ],
+    [
+      10,
+      "SF",
+      "LAR",
+      "2025-11-09",
+      "21:25 UTC",
+      "Levi's Stadium"
+    ],
+    [
+      10,
+      "WSH",
+      "DET",
+      "2025-11-09",
+      "21:25 UTC",
+      "Northwest Stadium"
+    ],
+    [
+      10,
+      "LAC",
+      "PIT",
+      "2025-11-10",
+      "01:20 UTC",
+      "SoFi Stadium"
+    ],
+    [
+      10,
+      "GB",
+      "PHI",
+      "2025-11-11",
+      "01:15 UTC",
+      "Lambeau Field"
+    ],
+    [
+      11,
+      "NE",
+      "NYJ",
+      "2025-11-14",
+      "01:15 UTC",
+      "Gillette Stadium"
+    ],
+    [
+      11,
+      "MIA",
+      "WSH",
+      "2025-11-16",
+      "14:30 UTC",
+      "Santiago Bernabéu"
+    ],
+    [
+      11,
+      "ATL",
+      "CAR",
+      "2025-11-16",
+      "18:00 UTC",
+      "Mercedes-Benz Stadium"
+    ],
+    [
+      11,
+      "BUF",
+      "TB",
+      "2025-11-16",
+      "18:00 UTC",
+      "Highmark Stadium"
+    ],
+    [
+      11,
+      "TEN",
+      "HOU",
+      "2025-11-16",
+      "18:00 UTC",
+      "Nissan Stadium"
+    ],
+    [
+      11,
+      "MIN",
+      "CHI",
+      "2025-11-16",
+      "18:00 UTC",
+      "U.S. Bank Stadium"
+    ],
+    [
+      11,
+      "NYG",
+      "GB",
+      "2025-11-16",
+      "18:00 UTC",
+      "MetLife Stadium"
+    ],
+    [
+      11,
+      "PIT",
+      "CIN",
+      "2025-11-16",
+      "18:00 UTC",
+      "Acrisure Stadium"
+    ],
+    [
+      11,
+      "JAX",
+      "LAC",
+      "2025-11-16",
+      "18:00 UTC",
+      "EverBank Stadium"
+    ],
+    [
+      11,
+      "LAR",
+      "SEA",
+      "2025-11-16",
+      "21:05 UTC",
+      "SoFi Stadium"
+    ],
+    [
+      11,
+      "ARI",
+      "SF",
+      "2025-11-16",
+      "21:05 UTC",
+      "State Farm Stadium"
+    ],
+    [
+      11,
+      "CLE",
+      "BAL",
+      "2025-11-16",
+      "21:25 UTC",
+      "Huntington Bank Field"
+    ],
+    [
+      11,
+      "DEN",
+      "KC",
+      "2025-11-16",
+      "21:25 UTC",
+      "Empower Field at Mile High"
+    ],
+    [
+      11,
+      "PHI",
+      "DET",
+      "2025-11-17",
+      "01:20 UTC",
+      "Lincoln Financial Field"
+    ],
+    [
+      11,
+      "LV",
+      "DAL",
+      "2025-11-18",
+      "01:15 UTC",
+      "Allegiant Stadium"
+    ],
+    [
+      12,
+      "HOU",
+      "BUF",
+      "2025-11-21",
+      "01:15 UTC",
+      "NRG Stadium"
+    ],
+    [
+      12,
+      "CHI",
+      "PIT",
+      "2025-11-23",
+      "18:00 UTC",
+      "Soldier Field"
+    ],
+    [
+      12,
+      "CIN",
+      "NE",
+      "2025-11-23",
+      "18:00 UTC",
+      "Paycor Stadium"
+    ],
+    [
+      12,
+      "DET",
+      "NYG",
+      "2025-11-23",
+      "18:00 UTC",
+      "Ford Field"
+    ],
+    [
+      12,
+      "GB",
+      "MIN",
+      "2025-11-23",
+      "18:00 UTC",
+      "Lambeau Field"
+    ],
+    [
+      12,
+      "TEN",
+      "SEA",
+      "2025-11-23",
+      "18:00 UTC",
+      "Nissan Stadium"
+    ],
+    [
+      12,
+      "KC",
+      "IND",
+      "2025-11-23",
+      "18:00 UTC",
+      "GEHA Field at Arrowhead Stadium"
+    ],
+    [
+      12,
+      "BAL",
+      "NYJ",
+      "2025-11-23",
+      "18:00 UTC",
+      "M&T Bank Stadium"
+    ],
+    [
+      12,
+      "LV",
+      "CLE",
+      "2025-11-23",
+      "21:05 UTC",
+      "Allegiant Stadium"
+    ],
+    [
+      12,
+      "ARI",
+      "JAX",
+      "2025-11-23",
+      "21:05 UTC",
+      "State Farm Stadium"
+    ],
+    [
+      12,
+      "DAL",
+      "PHI",
+      "2025-11-23",
+      "21:25 UTC",
+      "AT&T Stadium"
+    ],
+    [
+      12,
+      "NO",
+      "ATL",
+      "2025-11-23",
+      "21:25 UTC",
+      "Caesars Superdome"
+    ],
+    [
+      12,
+      "LAR",
+      "TB",
+      "2025-11-24",
+      "01:20 UTC",
+      "SoFi Stadium"
+    ],
+    [
+      12,
+      "SF",
+      "CAR",
+      "2025-11-25",
+      "01:15 UTC",
+      "Levi's Stadium"
+    ],
+    [
+      13,
+      "DET",
+      "GB",
+      "2025-11-27",
+      "18:00 UTC",
+      "Ford Field"
+    ],
+    [
+      13,
+      "DAL",
+      "KC",
+      "2025-11-27",
+      "21:30 UTC",
+      "AT&T Stadium"
+    ],
+    [
+      13,
+      "BAL",
+      "CIN",
+      "2025-11-28",
+      "01:20 UTC",
+      "M&T Bank Stadium"
+    ],
+    [
+      13,
+      "PHI",
+      "CHI",
+      "2025-11-28",
+      "20:00 UTC",
+      "Lincoln Financial Field"
+    ],
+    [
+      13,
+      "CLE",
+      "SF",
+      "2025-11-30",
+      "18:00 UTC",
+      "Huntington Bank Field"
+    ],
+    [
+      13,
+      "TEN",
+      "JAX",
+      "2025-11-30",
+      "18:00 UTC",
+      "Nissan Stadium"
+    ],
+    [
+      13,
+      "IND",
+      "HOU",
+      "2025-11-30",
+      "18:00 UTC",
+      "Lucas Oil Stadium"
+    ],
+    [
+      13,
+      "MIA",
+      "NO",
+      "2025-11-30",
+      "18:00 UTC",
+      "Hard Rock Stadium"
+    ],
+    [
+      13,
+      "NYJ",
+      "ATL",
+      "2025-11-30",
+      "18:00 UTC",
+      "MetLife Stadium"
+    ],
+    [
+      13,
+      "TB",
+      "ARI",
+      "2025-11-30",
+      "18:00 UTC",
+      "Raymond James Stadium"
+    ],
+    [
+      13,
+      "CAR",
+      "LAR",
+      "2025-11-30",
+      "18:00 UTC",
+      "Bank of America Stadium"
+    ],
+    [
+      13,
+      "SEA",
+      "MIN",
+      "2025-11-30",
+      "21:05 UTC",
+      "Lumen Field"
+    ],
+    [
+      13,
+      "PIT",
+      "BUF",
+      "2025-11-30",
+      "21:25 UTC",
+      "Acrisure Stadium"
+    ],
+    [
+      13,
+      "LAC",
+      "LV",
+      "2025-11-30",
+      "21:25 UTC",
+      "SoFi Stadium"
+    ],
+    [
+      13,
+      "WSH",
+      "DEN",
+      "2025-12-01",
+      "01:20 UTC",
+      "Northwest Stadium"
+    ],
+    [
+      13,
+      "NE",
+      "NYG",
+      "2025-12-02",
+      "01:15 UTC",
+      "Gillette Stadium"
+    ],
+    [
+      14,
+      "DET",
+      "DAL",
+      "2025-12-05",
+      "01:15 UTC",
+      "Ford Field"
+    ],
+    [
+      14,
+      "ATL",
+      "SEA",
+      "2025-12-07",
+      "18:00 UTC",
+      "Mercedes-Benz Stadium"
+    ],
+    [
+      14,
+      "CLE",
+      "TEN",
+      "2025-12-07",
+      "18:00 UTC",
+      "Huntington Bank Field"
+    ],
+    [
+      14,
+      "GB",
+      "CHI",
+      "2025-12-07",
+      "18:00 UTC",
+      "Lambeau Field"
+    ],
+    [
+      14,
+      "MIN",
+      "WSH",
+      "2025-12-07",
+      "18:00 UTC",
+      "U.S. Bank Stadium"
+    ],
+    [
+      14,
+      "NYJ",
+      "MIA",
+      "2025-12-07",
+      "18:00 UTC",
+      "MetLife Stadium"
+    ],
+    [
+      14,
+      "TB",
+      "NO",
+      "2025-12-07",
+      "18:00 UTC",
+      "Raymond James Stadium"
+    ],
+    [
+      14,
+      "JAX",
+      "IND",
+      "2025-12-07",
+      "18:00 UTC",
+      "EverBank Stadium"
+    ],
+    [
+      14,
+      "BAL",
+      "PIT",
+      "2025-12-07",
+      "18:00 UTC",
+      "M&T Bank Stadium"
+    ],
+    [
+      14,
+      "LV",
+      "DEN",
+      "2025-12-07",
+      "21:05 UTC",
+      "Allegiant Stadium"
+    ],
+    [
+      14,
+      "BUF",
+      "CIN",
+      "2025-12-07",
+      "21:25 UTC",
+      "Highmark Stadium"
+    ],
+    [
+      14,
+      "ARI",
+      "LAR",
+      "2025-12-07",
+      "21:25 UTC",
+      "State Farm Stadium"
+    ],
+    [
+      14,
+      "KC",
+      "HOU",
+      "2025-12-08",
+      "01:20 UTC",
+      "GEHA Field at Arrowhead Stadium"
+    ],
+    [
+      14,
+      "LAC",
+      "PHI",
+      "2025-12-09",
+      "01:15 UTC",
+      "SoFi Stadium"
+    ],
+    [
+      15,
+      "TB",
+      "ATL",
+      "2025-12-12",
+      "01:15 UTC",
+      "Raymond James Stadium"
+    ],
+    [
+      15,
+      "CHI",
+      "CLE",
+      "2025-12-14",
+      "18:00 UTC",
+      "Soldier Field"
+    ],
+    [
+      15,
+      "CIN",
+      "BAL",
+      "2025-12-14",
+      "18:00 UTC",
+      "Paycor Stadium"
+    ],
+    [
+      15,
+      "KC",
+      "LAC",
+      "2025-12-14",
+      "18:00 UTC",
+      "GEHA Field at Arrowhead Stadium"
+    ],
+    [
+      15,
+      "NE",
+      "BUF",
+      "2025-12-14",
+      "18:00 UTC",
+      "Gillette Stadium"
+    ],
+    [
+      15,
+      "NYG",
+      "WSH",
+      "2025-12-14",
+      "18:00 UTC",
+      "MetLife Stadium"
+    ],
+    [
+      15,
+      "PHI",
+      "LV",
+      "2025-12-14",
+      "18:00 UTC",
+      "Lincoln Financial Field"
+    ],
+    [
+      15,
+      "JAX",
+      "NYJ",
+      "2025-12-14",
+      "18:00 UTC",
+      "EverBank Stadium"
+    ],
+    [
+      15,
+      "HOU",
+      "ARI",
+      "2025-12-14",
+      "18:00 UTC",
+      "NRG Stadium"
+    ],
+    [
+      15,
+      "DEN",
+      "GB",
+      "2025-12-14",
+      "21:25 UTC",
+      "Empower Field at Mile High"
+    ],
+    [
+      15,
+      "LAR",
+      "DET",
+      "2025-12-14",
+      "21:25 UTC",
+      "SoFi Stadium"
+    ],
+    [
+      15,
+      "NO",
+      "CAR",
+      "2025-12-14",
+      "21:25 UTC",
+      "Caesars Superdome"
+    ],
+    [
+      15,
+      "SF",
+      "TEN",
+      "2025-12-14",
+      "21:25 UTC",
+      "Levi's Stadium"
+    ],
+    [
+      15,
+      "SEA",
+      "IND",
+      "2025-12-14",
+      "21:25 UTC",
+      "Lumen Field"
+    ],
+    [
+      15,
+      "DAL",
+      "MIN",
+      "2025-12-15",
+      "01:20 UTC",
+      "AT&T Stadium"
+    ],
+    [
+      15,
+      "PIT",
+      "MIA",
+      "2025-12-16",
+      "01:15 UTC",
+      "Acrisure Stadium"
+    ],
+    [
+      16,
+      "SEA",
+      "LAR",
+      "2025-12-19",
+      "01:15 UTC",
+      "Lumen Field"
+    ],
+    [
+      16,
+      "CHI",
+      "GB",
+      "2025-12-20",
+      "05:00 UTC",
+      "Soldier Field"
+    ],
+    [
+      16,
+      "WSH",
+      "PHI",
+      "2025-12-20",
+      "05:00 UTC",
+      "Northwest Stadium"
+    ],
+    [
+      16,
+      "CLE",
+      "BUF",
+      "2025-12-21",
+      "18:00 UTC",
+      "Huntington Bank Field"
+    ],
+    [
+      16,
+      "DAL",
+      "LAC",
+      "2025-12-21",
+      "18:00 UTC",
+      "AT&T Stadium"
+    ],
+    [
+      16,
+      "TEN",
+      "KC",
+      "2025-12-21",
+      "18:00 UTC",
+      "Nissan Stadium"
+    ],
+    [
+      16,
+      "NO",
+      "NYJ",
+      "2025-12-21",
+      "18:00 UTC",
+      "Caesars Superdome"
+    ],
+    [
+      16,
+      "NYG",
+      "MIN",
+      "2025-12-21",
+      "18:00 UTC",
+      "MetLife Stadium"
+    ],
+    [
+      16,
+      "CAR",
+      "TB",
+      "2025-12-21",
+      "18:00 UTC",
+      "Bank of America Stadium"
+    ],
+    [
+      16,
+      "BAL",
+      "NE",
+      "2025-12-21",
+      "18:00 UTC",
+      "M&T Bank Stadium"
+    ],
+    [
+      16,
+      "DEN",
+      "JAX",
+      "2025-12-21",
+      "21:05 UTC",
+      "Empower Field at Mile High"
+    ],
+    [
+      16,
+      "ARI",
+      "ATL",
+      "2025-12-21",
+      "21:05 UTC",
+      "State Farm Stadium"
+    ],
+    [
+      16,
+      "DET",
+      "PIT",
+      "2025-12-21",
+      "21:25 UTC",
+      "Ford Field"
+    ],
+    [
+      16,
+      "HOU",
+      "LV",
+      "2025-12-21",
+      "21:25 UTC",
+      "NRG Stadium"
+    ],
+    [
+      16,
+      "MIA",
+      "CIN",
+      "2025-12-22",
+      "01:20 UTC",
+      "Hard Rock Stadium"
+    ],
+    [
+      16,
+      "IND",
+      "SF",
+      "2025-12-23",
+      "01:15 UTC",
+      "Lucas Oil Stadium"
+    ],
+    [
+      17,
+      "WSH",
+      "DAL",
+      "2025-12-25",
+      "18:00 UTC",
+      "Northwest Stadium"
+    ],
+    [
+      17,
+      "MIN",
+      "DET",
+      "2025-12-25",
+      "21:30 UTC",
+      "U.S. Bank Stadium"
+    ],
+    [
+      17,
+      "KC",
+      "DEN",
+      "2025-12-26",
+      "01:15 UTC",
+      "GEHA Field at Arrowhead Stadium"
+    ],
+    [
+      17,
+      "CIN",
+      "ARI",
+      "2025-12-27",
+      "05:00 UTC",
+      "Paycor Stadium"
+    ],
+    [
+      17,
+      "GB",
+      "BAL",
+      "2025-12-27",
+      "05:00 UTC",
+      "Lambeau Field"
+    ],
+    [
+      17,
+      "LV",
+      "NYG",
+      "2025-12-27",
+      "05:00 UTC",
+      "Allegiant Stadium"
+    ],
+    [
+      17,
+      "LAC",
+      "HOU",
+      "2025-12-27",
+      "05:00 UTC",
+      "SoFi Stadium"
+    ],
+    [
+      17,
+      "CAR",
+      "SEA",
+      "2025-12-27",
+      "05:00 UTC",
+      "Bank of America Stadium"
+    ],
+    [
+      17,
+      "CLE",
+      "PIT",
+      "2025-12-28",
+      "18:00 UTC",
+      "Huntington Bank Field"
+    ],
+    [
+      17,
+      "TEN",
+      "NO",
+      "2025-12-28",
+      "18:00 UTC",
+      "Nissan Stadium"
+    ],
+    [
+      17,
+      "IND",
+      "JAX",
+      "2025-12-28",
+      "18:00 UTC",
+      "Lucas Oil Stadium"
+    ],
+    [
+      17,
+      "MIA",
+      "TB",
+      "2025-12-28",
+      "18:00 UTC",
+      "Hard Rock Stadium"
+    ],
+    [
+      17,
+      "NYJ",
+      "NE",
+      "2025-12-28",
+      "18:00 UTC",
+      "MetLife Stadium"
+    ],
+    [
+      17,
+      "BUF",
+      "PHI",
+      "2025-12-28",
+      "21:25 UTC",
+      "Highmark Stadium"
+    ],
+    [
+      17,
+      "SF",
+      "CHI",
+      "2025-12-29",
+      "01:20 UTC",
+      "Levi's Stadium"
+    ],
+    [
+      17,
+      "ATL",
+      "LAR",
+      "2025-12-30",
+      "01:15 UTC",
+      "Mercedes-Benz Stadium"
+    ],
+    [
+      18,
+      "ATL",
+      "NO",
+      "2026-01-04",
+      "05:00 UTC",
+      "Mercedes-Benz Stadium"
+    ],
+    [
+      18,
+      "BUF",
+      "NYJ",
+      "2026-01-04",
+      "05:00 UTC",
+      "Highmark Stadium"
+    ],
+    [
+      18,
+      "CHI",
+      "DET",
+      "2026-01-04",
+      "05:00 UTC",
+      "Soldier Field"
+    ],
+    [
+      18,
+      "CIN",
+      "CLE",
+      "2026-01-04",
+      "05:00 UTC",
+      "Paycor Stadium"
+    ],
+    [
+      18,
+      "DEN",
+      "LAC",
+      "2026-01-04",
+      "05:00 UTC",
+      "Empower Field at Mile High"
+    ],
+    [
+      18,
+      "LV",
+      "KC",
+      "2026-01-04",
+      "05:00 UTC",
+      "Allegiant Stadium"
+    ],
+    [
+      18,
+      "LAR",
+      "ARI",
+      "2026-01-04",
+      "05:00 UTC",
+      "SoFi Stadium"
+    ],
+    [
+      18,
+      "MIN",
+      "GB",
+      "2026-01-04",
+      "05:00 UTC",
+      "U.S. Bank Stadium"
+    ],
+    [
+      18,
+      "NE",
+      "MIA",
+      "2026-01-04",
+      "05:00 UTC",
+      "Gillette Stadium"
+    ],
+    [
+      18,
+      "NYG",
+      "DAL",
+      "2026-01-04",
+      "05:00 UTC",
+      "MetLife Stadium"
+    ],
+    [
+      18,
+      "PHI",
+      "WSH",
+      "2026-01-04",
+      "05:00 UTC",
+      "Lincoln Financial Field"
+    ],
+    [
+      18,
+      "PIT",
+      "BAL",
+      "2026-01-04",
+      "05:00 UTC",
+      "Acrisure Stadium"
+    ],
+    [
+      18,
+      "SF",
+      "SEA",
+      "2026-01-04",
+      "05:00 UTC",
+      "Levi's Stadium"
+    ],
+    [
+      18,
+      "TB",
+      "CAR",
+      "2026-01-04",
+      "05:00 UTC",
+      "Raymond James Stadium"
+    ],
+    [
+      18,
+      "JAX",
+      "TEN",
+      "2026-01-04",
+      "05:00 UTC",
+      "EverBank Stadium"
+    ],
+    [
+      18,
+      "HOU",
+      "IND",
+      "2026-01-04",
+      "05:00 UTC",
+      "NRG Stadium"
+    ]
+  ]
+}
