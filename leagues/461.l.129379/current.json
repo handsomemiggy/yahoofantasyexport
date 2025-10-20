@@ -1,0 +1,2786 @@
+{
+  "meta": {
+    "league_id": "461.l.129379",
+    "league_name": "Last Second League",
+    "season": 2025,
+    "generated_at": "2025-10-20T06:30:05.332027+00:00"
+  },
+  "standings": [
+    [
+      "team_key",
+      "Team",
+      "Wins",
+      "Losses",
+      "Ties",
+      "Points For",
+      "Points Against"
+    ],
+    [
+      "461.l.129379.t.9",
+      "Maxx Cats",
+      5,
+      1,
+      0,
+      1076.8,
+      978.8000000000001
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich\u2019s Hail Mary",
+      4,
+      2,
+      0,
+      1071.06,
+      909.04
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      4,
+      2,
+      0,
+      1031.06,
+      990.8199999999999
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      3,
+      3,
+      0,
+      991.24,
+      1006.9799999999999
+    ],
+    [
+      "461.l.129379.t.8",
+      "Who do I Venmo",
+      3,
+      3,
+      0,
+      972.54,
+      899.1800000000001
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      3,
+      3,
+      0,
+      882.08,
+      922.54
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      2,
+      4,
+      0,
+      913.7,
+      895.6800000000001
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      2,
+      4,
+      0,
+      903.28,
+      934.72
+    ],
+    [
+      "461.l.129379.t.1",
+      "Fourth and Deez",
+      2,
+      4,
+      0,
+      883.9,
+      992.2199999999999
+    ],
+    [
+      "461.l.129379.t.3",
+      "O\u2019Football Team",
+      2,
+      4,
+      0,
+      832.8,
+      1028.48
+    ]
+  ],
+  "rosters": [
+    [
+      "team_key",
+      "Team",
+      "Manager",
+      "Player",
+      "Pos",
+      "NFL Team",
+      "Status",
+      "Ownership%"
+    ],
+    [
+      "461.l.129379.t.9",
+      "Maxx Cats",
+      "Unknown",
+      "Jared Goff",
+      "QB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.9",
+      "Maxx Cats",
+      "Unknown",
+      "Tetairoa McMillan",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.9",
+      "Maxx Cats",
+      "Unknown",
+      "Davante Adams",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.9",
+      "Maxx Cats",
+      "Unknown",
+      "Jonathan Taylor",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.9",
+      "Maxx Cats",
+      "Unknown",
+      "Bijan Robinson",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.9",
+      "Maxx Cats",
+      "Unknown",
+      "Michael Mayer",
+      "TE",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.9",
+      "Maxx Cats",
+      "Unknown",
+      "Javonte Williams",
+      "W",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.9",
+      "Maxx Cats",
+      "Unknown",
+      "Garrett Wilson",
+      "BN",
+      null,
+      "O",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.9",
+      "Maxx Cats",
+      "Unknown",
+      "Rashid Shaheed",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.9",
+      "Maxx Cats",
+      "Unknown",
+      "Brock Bowers",
+      "BN",
+      null,
+      "O",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.9",
+      "Maxx Cats",
+      "Unknown",
+      "Tony Pollard",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.9",
+      "Maxx Cats",
+      "Unknown",
+      "Jaylen Warren",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.9",
+      "Maxx Cats",
+      "Unknown",
+      "Jerry Jeudy",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.9",
+      "Maxx Cats",
+      "Unknown",
+      "Harrison Butker",
+      "K",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.9",
+      "Maxx Cats",
+      "Unknown",
+      "Los Angeles",
+      "DEF",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich\u2019s Hail Mary",
+      "Unknown",
+      "Dak Prescott",
+      "QB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich\u2019s Hail Mary",
+      "Unknown",
+      "Jaylen Waddle",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich\u2019s Hail Mary",
+      "Unknown",
+      "Chris Olave",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich\u2019s Hail Mary",
+      "Unknown",
+      "Christian McCaffrey",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich\u2019s Hail Mary",
+      "Unknown",
+      "Kyren Williams",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich\u2019s Hail Mary",
+      "Unknown",
+      "Harold Fannin Jr.",
+      "TE",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich\u2019s Hail Mary",
+      "Unknown",
+      "George Pickens",
+      "W",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich\u2019s Hail Mary",
+      "Unknown",
+      "Dalton Kincaid",
+      "BN",
+      null,
+      "O",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich\u2019s Hail Mary",
+      "Unknown",
+      "Justin Herbert",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich\u2019s Hail Mary",
+      "Unknown",
+      "Ricky Pearsall",
+      "BN",
+      null,
+      "O",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich\u2019s Hail Mary",
+      "Unknown",
+      "Terry McLaurin",
+      "BN",
+      null,
+      "O",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich\u2019s Hail Mary",
+      "Unknown",
+      "Hassan Haskins",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich\u2019s Hail Mary",
+      "Unknown",
+      "Zach Ertz",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich\u2019s Hail Mary",
+      "Unknown",
+      "Matt Gay",
+      "K",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich\u2019s Hail Mary",
+      "Unknown",
+      "Kansas City",
+      "DEF",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.10",
+      "Rich\u2019s Hail Mary",
+      "Unknown",
+      "Braelon Allen",
+      "IR",
+      null,
+      "IR",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "Jayden Daniels",
+      "QB",
+      null,
+      "Q",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "Justin Jefferson",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "KaVontae Turpin",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "Jacory Croskey-Merritt",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "Cam Skattebo",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "Jake Ferguson",
+      "TE",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "Kenneth Walker III",
+      "W",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "Deebo Samuel",
+      "BN",
+      null,
+      "O",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "Puka Nacua",
+      "BN",
+      null,
+      "O",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "RJ Harvey",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "Bo Nix",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "Keon Coleman",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "Zach Charbonnet",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "Jason Myers",
+      "K",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "Denver",
+      "DEF",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "Aaron Jones Sr.",
+      "IR",
+      null,
+      "IR",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.7",
+      "Walker Texas Ranger III",
+      "Unknown",
+      "Brandon Aiyuk",
+      "IR",
+      null,
+      "PUP-R",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      "Unknown",
+      "Drake Maye",
+      "QB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      "Unknown",
+      "Ja'Marr Chase",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      "Unknown",
+      "Rome Odunze",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      "Unknown",
+      "De'Von Achane",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      "Unknown",
+      "Rico Dowdle",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      "Unknown",
+      "Tyler Warren",
+      "TE",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      "Unknown",
+      "Matthew Golden",
+      "W",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      "Unknown",
+      "Marvin Harrison Jr.",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      "Unknown",
+      "Woody Marks",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      "Unknown",
+      "Calvin Ridley",
+      "BN",
+      null,
+      "O",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      "Unknown",
+      "Jordan Love",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      "Unknown",
+      "Kaleb Johnson",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      "Unknown",
+      "Brian Robinson Jr.",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      "Unknown",
+      "Cameron Dicker",
+      "K",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      "Unknown",
+      "Indianapolis",
+      "DEF",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.4",
+      "Lawrence's Unreal Team",
+      "Unknown",
+      "Omarion Hampton",
+      "IR",
+      null,
+      "IR",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.8",
+      "Who do I Venmo",
+      "Unknown",
+      "Patrick Mahomes",
+      "QB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.8",
+      "Who do I Venmo",
+      "Unknown",
+      "Stefon Diggs",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.8",
+      "Who do I Venmo",
+      "Unknown",
+      "Mike Evans",
+      "WR",
+      null,
+      "Q",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.8",
+      "Who do I Venmo",
+      "Unknown",
+      "Jahmyr Gibbs",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.8",
+      "Who do I Venmo",
+      "Unknown",
+      "Josh Jacobs",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.8",
+      "Who do I Venmo",
+      "Unknown",
+      "Dallas Goedert",
+      "TE",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.8",
+      "Who do I Venmo",
+      "Unknown",
+      "Courtland Sutton",
+      "W",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.8",
+      "Who do I Venmo",
+      "Unknown",
+      "Travis Kelce",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.8",
+      "Who do I Venmo",
+      "Unknown",
+      "Michael Pittman Jr.",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.8",
+      "Who do I Venmo",
+      "Unknown",
+      "Marvin Mims Jr.",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.8",
+      "Who do I Venmo",
+      "Unknown",
+      "Jakobi Meyers",
+      "BN",
+      null,
+      "O",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.8",
+      "Who do I Venmo",
+      "Unknown",
+      "Ka'imi Fairbairn",
+      "K",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.8",
+      "Who do I Venmo",
+      "Unknown",
+      "Jake Elliott",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.8",
+      "Who do I Venmo",
+      "Unknown",
+      "New England",
+      "DEF",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.8",
+      "Who do I Venmo",
+      "Unknown",
+      "Philadelphia",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      "Unknown",
+      "Mac Jones",
+      "QB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      "Unknown",
+      "Ladd McConkey",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      "Unknown",
+      "Nico Collins",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      "Unknown",
+      "TreVeyon Henderson",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      "Unknown",
+      "Rhamondre Stevenson",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      "Unknown",
+      "Tucker Kraft",
+      "TE",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      "Unknown",
+      "Cooper Kupp",
+      "W",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      "Unknown",
+      "Josh Allen",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      "Unknown",
+      "Travis Hunter",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      "Unknown",
+      "Zay Flowers",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      "Unknown",
+      "Alvin Kamara",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      "Unknown",
+      "T.J. Hockenson",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      "Unknown",
+      "Sean Tucker",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      "Unknown",
+      "Wil Lutz",
+      "K",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      "Unknown",
+      "Carolina",
+      "DEF",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.2",
+      "john's Dazzling Team",
+      "Unknown",
+      "Malik Nabers",
+      "IR",
+      null,
+      "IR",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "Daniel Jones",
+      "QB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "Amon-Ra St. Brown",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "Rashee Rice",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "Quinshon Judkins",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "Jordan Mason",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "Sam LaPorta",
+      "TE",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "DK Metcalf",
+      "W",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "Brian Thomas Jr.",
+      "BN",
+      null,
+      "Q",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "Kenneth Gainwell",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "Keenan Allen",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "Bucky Irving",
+      "BN",
+      null,
+      "O",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "Chuba Hubbard",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "Kendrick Bourne",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "Eddy Pineiro",
+      "K",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "Seattle",
+      "DEF",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "Brock Purdy",
+      "IR",
+      null,
+      "O",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.6",
+      "Joe Buck Yourself",
+      "Unknown",
+      "Joe Burrow",
+      "IR",
+      null,
+      "IR",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      "Unknown",
+      "Justin Fields",
+      "QB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      "Unknown",
+      "Jaxon Smith-Njigba",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      "Unknown",
+      "Xavier Worthy",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      "Unknown",
+      "Saquon Barkley",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      "Unknown",
+      "Chase Brown",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      "Unknown",
+      "George Kittle",
+      "TE",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      "Unknown",
+      "Jameson Williams",
+      "W",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      "Unknown",
+      "Jordan Addison",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      "Unknown",
+      "Travis Etienne Jr.",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      "Unknown",
+      "Emeka Egbuka",
+      "BN",
+      null,
+      "Q",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      "Unknown",
+      "Lamar Jackson",
+      "BN",
+      null,
+      "O",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      "Unknown",
+      "Kendre Miller",
+      "BN",
+      null,
+      "Q",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      "Unknown",
+      "Jauan Jennings",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      "Unknown",
+      "Brandon Aubrey",
+      "K",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      "Unknown",
+      "Pittsburgh",
+      "DEF",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.5",
+      "Emeka My Dreams Come True",
+      "Unknown",
+      "Trey Benson",
+      "IR",
+      null,
+      "IR",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.1",
+      "Fourth and Deez",
+      "Unknown",
+      "Baker Mayfield",
+      "QB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.1",
+      "Fourth and Deez",
+      "Unknown",
+      "Drake London",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.1",
+      "Fourth and Deez",
+      "Unknown",
+      "A.J. Brown",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.1",
+      "Fourth and Deez",
+      "Unknown",
+      "Kimani Vidal",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.1",
+      "Fourth and Deez",
+      "Unknown",
+      "David Montgomery",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.1",
+      "Fourth and Deez",
+      "Unknown",
+      "Hunter Henry",
+      "TE",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.1",
+      "Fourth and Deez",
+      "Unknown",
+      "Rachaad White",
+      "W",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.1",
+      "Fourth and Deez",
+      "Unknown",
+      "James Cook III",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.1",
+      "Fourth and Deez",
+      "Unknown",
+      "Derrick Henry",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.1",
+      "Fourth and Deez",
+      "Unknown",
+      "Jalen Hurts",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.1",
+      "Fourth and Deez",
+      "Unknown",
+      "DeVonta Smith",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.1",
+      "Fourth and Deez",
+      "Unknown",
+      "Isiah Pacheco",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.1",
+      "Fourth and Deez",
+      "Unknown",
+      "Quentin Johnston",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.1",
+      "Fourth and Deez",
+      "Unknown",
+      "Chris Boswell",
+      "K",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.1",
+      "Fourth and Deez",
+      "Unknown",
+      "Miami",
+      "DEF",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.3",
+      "O\u2019Football Team",
+      "Unknown",
+      "Matthew Stafford",
+      "QB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.3",
+      "O\u2019Football Team",
+      "Unknown",
+      "CeeDee Lamb",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.3",
+      "O\u2019Football Team",
+      "Unknown",
+      "Tee Higgins",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.3",
+      "O\u2019Football Team",
+      "Unknown",
+      "Breece Hall",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.3",
+      "O\u2019Football Team",
+      "Unknown",
+      "Ashton Jeanty",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.3",
+      "O\u2019Football Team",
+      "Unknown",
+      "Trey McBride",
+      "TE",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.3",
+      "O\u2019Football Team",
+      "Unknown",
+      "J.K. Dobbins",
+      "W",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.3",
+      "O\u2019Football Team",
+      "Unknown",
+      "D'Andre Swift",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.3",
+      "O\u2019Football Team",
+      "Unknown",
+      "Khalil Shakir",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.3",
+      "O\u2019Football Team",
+      "Unknown",
+      "Romeo Doubs",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.3",
+      "O\u2019Football Team",
+      "Unknown",
+      "Tua Tagovailoa",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.3",
+      "O\u2019Football Team",
+      "Unknown",
+      "DJ Moore",
+      "BN",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.3",
+      "O\u2019Football Team",
+      "Unknown",
+      "Darren Waller",
+      "BN",
+      null,
+      "Q",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.3",
+      "O\u2019Football Team",
+      "Unknown",
+      "Jake Bates",
+      "K",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.129379.t.3",
+      "O\u2019Football Team",
+      "Unknown",
+      "Chicago",
+      "DEF",
+      null,
+      "",
+      "N/A"
+    ]
+  ],
+  "waivers": [
+    [
+      "Player",
+      "Pos",
+      "NFL Team",
+      "Status",
+      "Ownership%"
+    ],
+    [
+      "Teddy Bridgewater",
+      "QB",
+      null,
+      "Q",
+      "N/A"
+    ],
+    [
+      "Mitchell Trubisky",
+      "QB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Cooper Rush",
+      "QB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Sam Darnold",
+      "QB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Kyle Allen",
+      "QB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Drew Lock",
+      "QB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Davis Mills",
+      "QB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "C.J. Stroud",
+      "QB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Jalen Milroe",
+      "QB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Graham Mertz",
+      "QB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Joe Mixon",
+      "RB",
+      null,
+      "NFI-R",
+      "N/A"
+    ],
+    [
+      "Patrick Ricard",
+      "RB",
+      null,
+      "O",
+      "N/A"
+    ],
+    [
+      "Dare Ogunbowale",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Nick Chubb",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Jakob Johnson",
+      "RB",
+      null,
+      "IR",
+      "N/A"
+    ],
+    [
+      "Justice Hill",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Ty Johnson",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Craig Reynolds",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Reggie Gilliam",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Dameon Pierce",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Kenny McIntosh",
+      "RB",
+      null,
+      "IR",
+      "N/A"
+    ],
+    [
+      "Jacob Saylors",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Brady Russell",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Keaton Mitchell",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Ray Davis",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Sione Vaki",
+      "RB",
+      null,
+      "O",
+      "N/A"
+    ],
+    [
+      "Rasheen Ali",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "George Holani",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "British Brooks",
+      "RB",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Robbie Ouzts",
+      "RB",
+      null,
+      "IR",
+      "N/A"
+    ],
+    [
+      "Josh Williams",
+      "RB",
+      null,
+      "O",
+      "N/A"
+    ],
+    [
+      "Kye Robichaux",
+      "RB",
+      null,
+      "IR",
+      "N/A"
+    ],
+    [
+      "Jacardia Wright",
+      "RB",
+      null,
+      "O",
+      "N/A"
+    ],
+    [
+      "DeAndre Hopkins",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Sterling Shepard",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Kalif Raymond",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Curtis Samuel",
+      "WR",
+      null,
+      "O",
+      "N/A"
+    ],
+    [
+      "Chris Godwin Jr.",
+      "WR",
+      null,
+      "O",
+      "N/A"
+    ],
+    [
+      "Christian Kirk",
+      "WR",
+      null,
+      "O",
+      "N/A"
+    ],
+    [
+      "Justin Watson",
+      "WR",
+      null,
+      "IR",
+      "N/A"
+    ],
+    [
+      "Braxton Berrios",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Gabe Davis",
+      "WR",
+      null,
+      "O",
+      "N/A"
+    ],
+    [
+      "Rashod Bateman",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Elijah Moore",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Joshua Palmer",
+      "WR",
+      null,
+      "Q",
+      "N/A"
+    ],
+    [
+      "Tylan Wallace",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Dareke Young",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Tank Dell",
+      "WR",
+      null,
+      "PUP-R",
+      "N/A"
+    ],
+    [
+      "Xavier Hutchinson",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Jake Bobo",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Tyrell Shavers",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Ryan Miller",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Jalen McMillan",
+      "WR",
+      null,
+      "IR-R",
+      "N/A"
+    ],
+    [
+      "Devontez Walker",
+      "WR",
+      null,
+      "O",
+      "N/A"
+    ],
+    [
+      "Dayton Wade",
+      "WR",
+      null,
+      "IR",
+      "N/A"
+    ],
+    [
+      "Kameron Johnson",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Jayden Higgins",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Isaac TeSlaa",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Jaylin Noel",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Tory Horton",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "LaJohntay Wester",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Tez Johnson",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Dominic Lovett",
+      "WR",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Jahmal Banks",
+      "WR",
+      null,
+      "SUSP",
+      "N/A"
+    ],
+    [
+      "Eric Saubert",
+      "TE",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Mark Andrews",
+      "TE",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Dalton Schultz",
+      "TE",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Ross Dwelley",
+      "TE",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Dawson Knox",
+      "TE",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Harrison Bryant",
+      "TE",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Brevin Jordan",
+      "TE",
+      null,
+      "IR",
+      "N/A"
+    ],
+    [
+      "Kenny Yeboah",
+      "TE",
+      null,
+      "IR",
+      "N/A"
+    ],
+    [
+      "Brock Wright",
+      "TE",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Shane Zylstra",
+      "TE",
+      null,
+      "IR",
+      "N/A"
+    ],
+    [
+      "Charlie Kolar",
+      "TE",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Isaiah Likely",
+      "TE",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Ko Kieft",
+      "TE",
+      null,
+      "IR",
+      "N/A"
+    ],
+    [
+      "Zaire Mitchell-Paden",
+      "TE",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Payne Durham",
+      "TE",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Brady Russell",
+      "TE",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Cade Stover",
+      "TE",
+      null,
+      "IR",
+      "N/A"
+    ],
+    [
+      "AJ Barner",
+      "TE",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Devin Culp",
+      "TE",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Brenden Bates",
+      "TE",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Elijah Arroyo",
+      "TE",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Jackson Hawes",
+      "TE",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Robbie Ouzts",
+      "TE",
+      null,
+      "IR",
+      "N/A"
+    ],
+    [
+      "Nick Kallerup",
+      "TE",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Matt Prater",
+      "K",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Justin Tucker",
+      "K",
+      null,
+      "SUSP",
+      "N/A"
+    ],
+    [
+      "Tyler Bass",
+      "K",
+      null,
+      "IR",
+      "N/A"
+    ],
+    [
+      "Tyler Loop",
+      "K",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Buffalo",
+      "DEF",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Detroit",
+      "DEF",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Tampa Bay",
+      "DEF",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Baltimore",
+      "DEF",
+      null,
+      "",
+      "N/A"
+    ],
+    [
+      "Houston",
+      "DEF",
+      null,
+      "",
+      "N/A"
+    ]
+  ],
+  "matchups": [
+    [
+      "Week",
+      "team_key_1",
+      "Team 1",
+      "team_key_2",
+      "Team 2",
+      "Score 1",
+      "Score 2",
+      "Status"
+    ]
+  ],
+  "settings": {
+    "league_key": "461.l.129379",
+    "league_id": "129379",
+    "name": "Last Second League",
+    "url": "https://football.fantasysports.yahoo.com/f1/129379",
+    "logo_url": "https://s.yimg.com/ep/cx/blendr/v2/image-avatar-football-trophy-sf-png_1721783652750.png",
+    "draft_status": "postdraft",
+    "num_teams": 10,
+    "edit_key": "7",
+    "weekly_deadline": "",
+    "roster_type": "week",
+    "league_update_timestamp": "1760769841",
+    "scoring_type": "head",
+    "league_type": "private",
+    "renew": "449_25029",
+    "renewed": "",
+    "felo_tier": "silver",
+    "is_highscore": false,
+    "matchup_week": 7,
+    "iris_group_chat_id": "",
+    "allow_add_to_dl_extra_pos": 1,
+    "is_pro_league": "0",
+    "is_cash_league": "0",
+    "current_week": 7,
+    "start_week": "1",
+    "start_date": "2025-09-04",
+    "end_week": "17",
+    "end_date": "2025-12-29",
+    "is_plus_league": "0",
+    "game_code": "nfl",
+    "season": "2025",
+    "draft_type": "live",
+    "is_auction_draft": "0",
+    "invite_permission": "commissioner",
+    "uses_playoff": "1",
+    "has_playoff_consolation_games": true,
+    "playoff_start_week": "15",
+    "uses_playoff_reseeding": 1,
+    "uses_lock_eliminated_teams": 0,
+    "num_playoff_teams": "6",
+    "num_playoff_consolation_teams": 6,
+    "has_multiweek_championship": 0,
+    "waiver_type": "FS",
+    "waiver_rule": "gametime",
+    "uses_faab": "1",
+    "draft_time": "1756054800",
+    "draft_pick_time": "60",
+    "post_draft_players": "FA",
+    "max_teams": "10",
+    "waiver_time": "2",
+    "trade_end_date": "2025-11-22",
+    "trade_ratify_type": "vote",
+    "trade_reject_time": "2",
+    "player_pool": "ALL",
+    "cant_cut_list": "yahoo",
+    "draft_together": 0,
+    "sendbird_channel_url": "41a13315a094413eda53c4a55a76d8cc",
+    "stat_modifiers": {
+      "stats": [
+        {
+          "stat": {
+            "stat_id": 2,
+            "value": "1"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 4,
+            "value": "0.04"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 5,
+            "value": "6"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 6,
+            "value": "-1"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 7,
+            "value": "-1"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 9,
+            "value": "0.1"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 10,
+            "value": "6"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 11,
+            "value": "1"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 12,
+            "value": "0.1"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 13,
+            "value": "6"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 14,
+            "value": "0.1"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 15,
+            "value": "6"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 16,
+            "value": "3"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 18,
+            "value": "-2"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 57,
+            "value": "6"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 58,
+            "value": "-2"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 59,
+            "value": "1"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 60,
+            "value": "2"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 61,
+            "value": "1"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 62,
+            "value": "2"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 63,
+            "value": "1"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 64,
+            "value": "2"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 24,
+            "value": "-2"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 25,
+            "value": "-1"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 26,
+            "value": "-1"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 27,
+            "value": "-1"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 28,
+            "value": "-1"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 29,
+            "value": "1"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 30,
+            "value": "-2"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 84,
+            "value": "0.1"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 32,
+            "value": "1"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 33,
+            "value": "2"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 34,
+            "value": "2"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 35,
+            "value": "6"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 36,
+            "value": "2"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 37,
+            "value": "2"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 48,
+            "value": "0.1"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 49,
+            "value": "6"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 50,
+            "value": "20"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 51,
+            "value": "10"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 52,
+            "value": "6"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 53,
+            "value": "3"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 54,
+            "value": "0"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 55,
+            "value": "-1"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 56,
+            "value": "-4"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 70,
+            "value": "12"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 71,
+            "value": "10"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 72,
+            "value": "6"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 73,
+            "value": "2"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 74,
+            "value": "0"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 75,
+            "value": "-2"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 76,
+            "value": "-5"
+          }
+        },
+        {
+          "stat": {
+            "stat_id": 82,
+            "value": "2"
+          }
+        }
+      ]
+    },
+    "uses_median_score": false,
+    "league_premium_features": [],
+    "pickem_enabled": "",
+    "uses_fractional_points": "1",
+    "uses_negative_points": "1"
+  }
+}
