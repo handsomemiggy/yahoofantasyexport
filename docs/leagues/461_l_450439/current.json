@@ -3,7 +3,7 @@
     "league_id": "461.l.450439",
     "league_name": "Punting to Sweet Fantastic",
     "season": 2025,
-    "generated_at": "2025-10-20T12:19:23.254852+00:00"
+    "generated_at": "2025-10-20T13:12:51.627252+00:00"
   },
   "standings": [
     [
@@ -123,7 +123,7 @@
       "Trevor",
       "Jalen Hurts",
       "QB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -133,7 +133,7 @@
       "Trevor",
       "Tetairoa McMillan",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -143,7 +143,7 @@
       "Trevor",
       "Romeo Doubs",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -153,7 +153,7 @@
       "Trevor",
       "Bijan Robinson",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -163,7 +163,7 @@
       "Trevor",
       "Hunter Henry",
       "TE",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -173,7 +173,7 @@
       "Trevor",
       "Jonathan Taylor",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -183,7 +183,7 @@
       "Trevor",
       "Rachaad White",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -193,7 +193,7 @@
       "Trevor",
       "Mark Andrews",
       "TE",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -203,7 +203,7 @@
       "Trevor",
       "Jordan Addison",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -213,7 +213,7 @@
       "Trevor",
       "Bucky Irving",
       "RB",
-      null,
+      "",
       "O",
       "N/A"
     ],
@@ -223,7 +223,7 @@
       "Trevor",
       "Tyrone Tracy Jr.",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -233,7 +233,7 @@
       "Trevor",
       "Kaleb Johnson",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -243,7 +243,7 @@
       "Trevor",
       "Drake Maye",
       "QB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -253,7 +253,7 @@
       "Trevor",
       "Jake Bates",
       "K",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -263,7 +263,7 @@
       "Trevor",
       "Los Angeles",
       "DEF",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -273,7 +273,7 @@
       "Trevor",
       "Jauan Jennings",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -283,7 +283,7 @@
       "Trevor",
       "Tyreek Hill",
       "WR",
-      null,
+      "",
       "IR",
       "N/A"
     ],
@@ -293,7 +293,7 @@
       "Courtney",
       "Jordan Love",
       "QB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -303,7 +303,7 @@
       "Courtney",
       "DeVonta Smith",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -313,7 +313,7 @@
       "Courtney",
       "George Pickens",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -323,7 +323,7 @@
       "Courtney",
       "Isiah Pacheco",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -333,7 +333,7 @@
       "Courtney",
       "Jake Ferguson",
       "TE",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -343,7 +343,7 @@
       "Courtney",
       "Jaxon Smith-Njigba",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -353,7 +353,7 @@
       "Courtney",
       "Javonte Williams",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -363,7 +363,7 @@
       "Courtney",
       "Derrick Henry",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -373,7 +373,7 @@
       "Courtney",
       "Lamar Jackson",
       "QB",
-      null,
+      "",
       "O",
       "N/A"
     ],
@@ -383,7 +383,7 @@
       "Courtney",
       "David Njoku",
       "TE",
-      null,
+      "",
       "O",
       "N/A"
     ],
@@ -393,7 +393,7 @@
       "Courtney",
       "Malik Nabers",
       "WR",
-      null,
+      "",
       "IR",
       "N/A"
     ],
@@ -403,7 +403,7 @@
       "Courtney",
       "D'Andre Swift",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -413,7 +413,7 @@
       "Courtney",
       "Matthew Golden",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -423,7 +423,7 @@
       "Courtney",
       "Chase McLaughlin",
       "K",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -433,7 +433,7 @@
       "Courtney",
       "Pittsburgh",
       "DEF",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -443,7 +443,7 @@
       "Danielle",
       "Patrick Mahomes",
       "QB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -453,7 +453,7 @@
       "Danielle",
       "Puka Nacua",
       "WR",
-      null,
+      "",
       "O",
       "N/A"
     ],
@@ -463,7 +463,7 @@
       "Danielle",
       "Jerry Jeudy",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -473,7 +473,7 @@
       "Danielle",
       "Jahmyr Gibbs",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -483,7 +483,7 @@
       "Danielle",
       "Sam LaPorta",
       "TE",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -493,7 +493,7 @@
       "Danielle",
       "Rome Odunze",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -503,7 +503,7 @@
       "Danielle",
       "J.K. Dobbins",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -513,7 +513,7 @@
       "Danielle",
       "James Cook III",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -523,7 +523,7 @@
       "Danielle",
       "Terry McLaurin",
       "WR",
-      null,
+      "",
       "O",
       "N/A"
     ],
@@ -533,7 +533,7 @@
       "Danielle",
       "Demarcus Robinson",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -543,7 +543,7 @@
       "Danielle",
       "Chase Brown",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -553,7 +553,7 @@
       "Danielle",
       "Justin Fields",
       "QB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -563,7 +563,7 @@
       "Danielle",
       "Kyle Pitts Sr.",
       "TE",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -573,7 +573,7 @@
       "Danielle",
       "Matt Gay",
       "K",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -583,7 +583,7 @@
       "Danielle",
       "Detroit",
       "DEF",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -593,7 +593,7 @@
       "Kyle",
       "Jared Goff",
       "QB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -603,7 +603,7 @@
       "Kyle",
       "Amon-Ra St. Brown",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -613,7 +613,7 @@
       "Kyle",
       "Rashid Shaheed",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -623,7 +623,7 @@
       "Kyle",
       "Rico Dowdle",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -633,7 +633,7 @@
       "Kyle",
       "Zach Ertz",
       "TE",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -643,7 +643,7 @@
       "Kyle",
       "Evan Engram",
       "TE",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -653,7 +653,7 @@
       "Kyle",
       "Josh Jacobs",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -663,7 +663,7 @@
       "Kyle",
       "Emanuel Wilson",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -673,7 +673,7 @@
       "Kyle",
       "Deebo Samuel",
       "WR",
-      null,
+      "",
       "O",
       "N/A"
     ],
@@ -683,7 +683,7 @@
       "Kyle",
       "DK Metcalf",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -693,7 +693,7 @@
       "Kyle",
       "Baker Mayfield",
       "QB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -703,7 +703,7 @@
       "Kyle",
       "Mike Evans",
       "WR",
-      null,
+      "",
       "Q",
       "N/A"
     ],
@@ -713,7 +713,7 @@
       "Kyle",
       "Jacory Croskey-Merritt",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -723,7 +723,7 @@
       "Kyle",
       "Evan McPherson",
       "K",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -733,7 +733,7 @@
       "Kyle",
       "Houston",
       "DEF",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -743,7 +743,7 @@
       "Kyle",
       "Omarion Hampton",
       "RB",
-      null,
+      "",
       "IR",
       "N/A"
     ],
@@ -753,7 +753,7 @@
       "Justin",
       "Josh Allen",
       "QB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -763,7 +763,7 @@
       "Justin",
       "Brian Thomas Jr.",
       "WR",
-      null,
+      "",
       "Q",
       "N/A"
     ],
@@ -773,7 +773,7 @@
       "Justin",
       "Jakobi Meyers",
       "WR",
-      null,
+      "",
       "O",
       "N/A"
     ],
@@ -783,7 +783,7 @@
       "Justin",
       "Christian McCaffrey",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -793,7 +793,7 @@
       "Justin",
       "Dalton Schultz",
       "TE",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -803,7 +803,7 @@
       "Justin",
       "Ricky Pearsall",
       "WR",
-      null,
+      "",
       "O",
       "N/A"
     ],
@@ -813,7 +813,7 @@
       "Justin",
       "Courtland Sutton",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -823,7 +823,7 @@
       "Justin",
       "TreVeyon Henderson",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -833,7 +833,7 @@
       "Justin",
       "Chuba Hubbard",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -843,7 +843,7 @@
       "Justin",
       "George Kittle",
       "TE",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -853,7 +853,7 @@
       "Justin",
       "Jameson Williams",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -863,7 +863,7 @@
       "Justin",
       "Brock Purdy",
       "QB",
-      null,
+      "",
       "O",
       "N/A"
     ],
@@ -873,7 +873,7 @@
       "Justin",
       "Josh Downs",
       "WR",
-      null,
+      "",
       "O",
       "N/A"
     ],
@@ -883,7 +883,7 @@
       "Justin",
       "Wil Lutz",
       "K",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -893,7 +893,7 @@
       "Justin",
       "Minnesota",
       "DEF",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -903,7 +903,7 @@
       "Mike",
       "Matthew Stafford",
       "QB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -913,7 +913,7 @@
       "Mike",
       "Ladd McConkey",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -923,7 +923,7 @@
       "Mike",
       "Ja'Marr Chase",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -933,7 +933,7 @@
       "Mike",
       "Kyren Williams",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -943,7 +943,7 @@
       "Mike",
       "Darren Waller",
       "TE",
-      null,
+      "",
       "Q",
       "N/A"
     ],
@@ -953,7 +953,7 @@
       "Mike",
       "Chris Olave",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -963,7 +963,7 @@
       "Mike",
       "Breece Hall",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -973,7 +973,7 @@
       "Mike",
       "Jaylen Warren",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -983,7 +983,7 @@
       "Mike",
       "Kendrick Bourne",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -993,7 +993,7 @@
       "Mike",
       "Quinshon Judkins",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1003,7 +1003,7 @@
       "Mike",
       "Kenneth Walker III",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1013,7 +1013,7 @@
       "Mike",
       "Keenan Allen",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1023,7 +1023,7 @@
       "Mike",
       "Dallas Goedert",
       "TE",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1033,7 +1033,7 @@
       "Mike",
       "Brandon Aubrey",
       "K",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1043,7 +1043,7 @@
       "Mike",
       "Seattle",
       "DEF",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1053,7 +1053,7 @@
       "Jake",
       "Jaxson Dart",
       "QB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1063,7 +1063,7 @@
       "Jake",
       "Xavier Worthy",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1073,7 +1073,7 @@
       "Jake",
       "CeeDee Lamb",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1083,7 +1083,7 @@
       "Jake",
       "De'Von Achane",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1093,7 +1093,7 @@
       "Jake",
       "Tyler Warren",
       "TE",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1103,7 +1103,7 @@
       "Jake",
       "Davante Adams",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1113,7 +1113,7 @@
       "Jake",
       "Cam Skattebo",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1123,7 +1123,7 @@
       "Jake",
       "Garrett Wilson",
       "WR",
-      null,
+      "",
       "O",
       "N/A"
     ],
@@ -1133,7 +1133,7 @@
       "Jake",
       "Brock Bowers",
       "TE",
-      null,
+      "",
       "O",
       "N/A"
     ],
@@ -1143,7 +1143,7 @@
       "Jake",
       "Jordan Mason",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1153,7 +1153,7 @@
       "Jake",
       "Calvin Ridley",
       "WR",
-      null,
+      "",
       "O",
       "N/A"
     ],
@@ -1163,7 +1163,7 @@
       "Jake",
       "Kimani Vidal",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1173,7 +1173,7 @@
       "Jake",
       "Harrison Butker",
       "K",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1183,7 +1183,7 @@
       "Jake",
       "New England",
       "DEF",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1193,7 +1193,7 @@
       "Jake",
       "Buffalo",
       "DEF",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1203,7 +1203,7 @@
       "alex",
       "Dak Prescott",
       "QB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1213,7 +1213,7 @@
       "alex",
       "Drake London",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1223,7 +1223,7 @@
       "alex",
       "Rashee Rice",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1233,7 +1233,7 @@
       "alex",
       "Travis Etienne Jr.",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1243,7 +1243,7 @@
       "alex",
       "Trey McBride",
       "TE",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1253,7 +1253,7 @@
       "alex",
       "Marvin Harrison Jr.",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1263,7 +1263,7 @@
       "alex",
       "Nico Collins",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1273,7 +1273,7 @@
       "alex",
       "Tony Pollard",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1283,7 +1283,7 @@
       "alex",
       "Keon Coleman",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1293,7 +1293,7 @@
       "alex",
       "DJ Moore",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1303,7 +1303,7 @@
       "alex",
       "Travis Kelce",
       "TE",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1313,7 +1313,7 @@
       "alex",
       "Geno Smith",
       "QB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1323,7 +1323,7 @@
       "alex",
       "Cameron Dicker",
       "K",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1333,7 +1333,7 @@
       "alex",
       "Cleveland",
       "DEF",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1343,7 +1343,7 @@
       "alex",
       "James Conner",
       "RB",
-      null,
+      "",
       "IR",
       "N/A"
     ],
@@ -1353,7 +1353,7 @@
       "Becky",
       "Jayden Daniels",
       "QB",
-      null,
+      "",
       "Q",
       "N/A"
     ],
@@ -1363,7 +1363,7 @@
       "Becky",
       "Justin Jefferson",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1373,7 +1373,7 @@
       "Becky",
       "A.J. Brown",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1383,7 +1383,7 @@
       "Becky",
       "Ashton Jeanty",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1393,7 +1393,7 @@
       "Becky",
       "Tucker Kraft",
       "TE",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1403,7 +1403,7 @@
       "Becky",
       "Alvin Kamara",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1413,7 +1413,7 @@
       "Becky",
       "Zay Flowers",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1423,7 +1423,7 @@
       "Becky",
       "Travis Hunter",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1433,7 +1433,7 @@
       "Becky",
       "Stefon Diggs",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1443,7 +1443,7 @@
       "Becky",
       "Braelon Allen",
       "RB",
-      null,
+      "",
       "IR",
       "N/A"
     ],
@@ -1453,7 +1453,7 @@
       "Becky",
       "Caleb Williams",
       "QB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1463,7 +1463,7 @@
       "Becky",
       "Dalton Kincaid",
       "TE",
-      null,
+      "",
       "O",
       "N/A"
     ],
@@ -1473,7 +1473,7 @@
       "Becky",
       "Khalil Shakir",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1483,7 +1483,7 @@
       "Becky",
       "Chris Boswell",
       "K",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1493,7 +1493,7 @@
       "Becky",
       "Kansas City",
       "DEF",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1503,7 +1503,7 @@
       "Brian",
       "Justin Herbert",
       "QB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1513,7 +1513,7 @@
       "Brian",
       "Michael Pittman Jr.",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1523,7 +1523,7 @@
       "Brian",
       "Quentin Johnston",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1533,7 +1533,7 @@
       "Brian",
       "Saquon Barkley",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1543,7 +1543,7 @@
       "Brian",
       "Juwan Johnson",
       "TE",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1553,7 +1553,7 @@
       "Brian",
       "Jaylen Waddle",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1563,7 +1563,7 @@
       "Brian",
       "Tee Higgins",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1573,7 +1573,7 @@
       "Brian",
       "Cooper Kupp",
       "WR",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1583,7 +1583,7 @@
       "Brian",
       "Emeka Egbuka",
       "WR",
-      null,
+      "",
       "Q",
       "N/A"
     ],
@@ -1593,7 +1593,7 @@
       "Brian",
       "T.J. Hockenson",
       "TE",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1603,7 +1603,7 @@
       "Brian",
       "David Montgomery",
       "RB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1613,7 +1613,7 @@
       "Brian",
       "Daniel Jones",
       "QB",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1623,7 +1623,7 @@
       "Brian",
       "Jake Elliott",
       "K",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1633,7 +1633,7 @@
       "Brian",
       "Cam Little",
       "K",
-      null,
+      "",
       "",
       "N/A"
     ],
@@ -1643,7 +1643,7 @@
       "Brian",
       "Denver",
       "DEF",
-      null,
+      "",
       "",
       "N/A"
     ]
@@ -1659,679 +1659,679 @@
     [
       "Teddy Bridgewater",
       "QB",
-      null,
+      "",
       "Q",
       "0"
     ],
     [
       "Mitchell Trubisky",
       "QB",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Cooper Rush",
       "QB",
-      null,
+      "",
       "",
       "1"
     ],
     [
       "Sam Darnold",
       "QB",
-      null,
+      "",
       "",
       "48"
     ],
     [
       "Kyle Allen",
       "QB",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Drew Lock",
       "QB",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Davis Mills",
       "QB",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "C.J. Stroud",
       "QB",
-      null,
+      "",
       "",
       "55"
     ],
     [
       "Jalen Milroe",
       "QB",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Graham Mertz",
       "QB",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Joe Mixon",
       "RB",
-      null,
+      "",
       "NFI-R",
       "47"
     ],
     [
       "Patrick Ricard",
       "RB",
-      null,
+      "",
       "O",
       "0"
     ],
     [
       "Dare Ogunbowale",
       "RB",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Nick Chubb",
       "RB",
-      null,
+      "",
       "",
       "66"
     ],
     [
       "Jakob Johnson",
       "RB",
-      null,
+      "",
       "IR",
       "0"
     ],
     [
       "Justice Hill",
       "RB",
-      null,
+      "",
       "",
       "10"
     ],
     [
       "Ty Johnson",
       "RB",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Craig Reynolds",
       "RB",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Reggie Gilliam",
       "RB",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Dameon Pierce",
       "RB",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Zach Charbonnet",
       "RB",
-      null,
+      "",
       "",
       "79"
     ],
     [
       "Kenny McIntosh",
       "RB",
-      null,
+      "",
       "IR",
       "0"
     ],
     [
       "Jacob Saylors",
       "RB",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Brady Russell",
       "RB",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Keaton Mitchell",
       "RB",
-      null,
+      "",
       "",
       "1"
     ],
     [
       "Sean Tucker",
       "RB",
-      null,
+      "",
       "",
       "10"
     ],
     [
       "Ray Davis",
       "RB",
-      null,
+      "",
       "",
       "11"
     ],
     [
       "Sione Vaki",
       "RB",
-      null,
+      "",
       "O",
       "0"
     ],
     [
       "Rasheen Ali",
       "RB",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "George Holani",
       "RB",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "British Brooks",
       "RB",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Woody Marks",
       "RB",
-      null,
+      "",
       "",
       "53"
     ],
     [
       "Robbie Ouzts",
       "RB",
-      null,
+      "",
       "IR",
       "0"
     ],
     [
       "Josh Williams",
       "RB",
-      null,
+      "",
       "O",
       "0"
     ],
     [
       "Kye Robichaux",
       "RB",
-      null,
+      "",
       "IR",
       "0"
     ],
     [
       "Jacardia Wright",
       "RB",
-      null,
+      "",
       "O",
       "0"
     ],
     [
       "DeAndre Hopkins",
       "WR",
-      null,
+      "",
       "",
       "6"
     ],
     [
       "Sterling Shepard",
       "WR",
-      null,
+      "",
       "",
       "15"
     ],
     [
       "Kalif Raymond",
       "WR",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Curtis Samuel",
       "WR",
-      null,
+      "",
       "O",
       "0"
     ],
     [
       "Chris Godwin Jr.",
       "WR",
-      null,
+      "",
       "O",
       "59"
     ],
     [
       "Christian Kirk",
       "WR",
-      null,
+      "",
       "O",
       "24"
     ],
     [
       "Justin Watson",
       "WR",
-      null,
+      "",
       "IR",
       "0"
     ],
     [
       "Braxton Berrios",
       "WR",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Gabe Davis",
       "WR",
-      null,
+      "",
       "O",
       "0"
     ],
     [
       "Rashod Bateman",
       "WR",
-      null,
+      "",
       "",
       "22"
     ],
     [
       "Elijah Moore",
       "WR",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Joshua Palmer",
       "WR",
-      null,
+      "",
       "Q",
       "11"
     ],
     [
       "Tylan Wallace",
       "WR",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Dareke Young",
       "WR",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Tank Dell",
       "WR",
-      null,
+      "",
       "PUP-R",
       "1"
     ],
     [
       "Xavier Hutchinson",
       "WR",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Jake Bobo",
       "WR",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Tyrell Shavers",
       "WR",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Ryan Miller",
       "WR",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Jalen McMillan",
       "WR",
-      null,
+      "",
       "IR-R",
       "2"
     ],
     [
       "Devontez Walker",
       "WR",
-      null,
+      "",
       "O",
       "0"
     ],
     [
       "Dayton Wade",
       "WR",
-      null,
+      "",
       "IR",
       "0"
     ],
     [
       "Kameron Johnson",
       "WR",
-      null,
+      "",
       "",
       "2"
     ],
     [
       "Jayden Higgins",
       "WR",
-      null,
+      "",
       "",
       "13"
     ],
     [
       "Isaac TeSlaa",
       "WR",
-      null,
+      "",
       "",
       "3"
     ],
     [
       "Jaylin Noel",
       "WR",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Tory Horton",
       "WR",
-      null,
+      "",
       "",
       "5"
     ],
     [
       "LaJohntay Wester",
       "WR",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Tez Johnson",
       "WR",
-      null,
+      "",
       "",
       "16"
     ],
     [
       "Dominic Lovett",
       "WR",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Jahmal Banks",
       "WR",
-      null,
+      "",
       "SUSP",
       "0"
     ],
     [
       "Eric Saubert",
       "TE",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Ross Dwelley",
       "TE",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Dawson Knox",
       "TE",
-      null,
+      "",
       "",
       "1"
     ],
     [
       "Harrison Bryant",
       "TE",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Brevin Jordan",
       "TE",
-      null,
+      "",
       "IR",
       "0"
     ],
     [
       "Kenny Yeboah",
       "TE",
-      null,
+      "",
       "IR",
       "0"
     ],
     [
       "Brock Wright",
       "TE",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Shane Zylstra",
       "TE",
-      null,
+      "",
       "IR",
       "0"
     ],
     [
       "Cade Otton",
       "TE",
-      null,
+      "",
       "",
       "42"
     ],
     [
       "Charlie Kolar",
       "TE",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Isaiah Likely",
       "TE",
-      null,
+      "",
       "",
       "6"
     ],
     [
       "Ko Kieft",
       "TE",
-      null,
+      "",
       "IR",
       "0"
     ],
     [
       "Zaire Mitchell-Paden",
       "TE",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Payne Durham",
       "TE",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Brady Russell",
       "TE",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Cade Stover",
       "TE",
-      null,
+      "",
       "IR",
       "0"
     ],
     [
       "AJ Barner",
       "TE",
-      null,
       "",
-      "16"
+      "",
+      "17"
     ],
     [
       "Devin Culp",
       "TE",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Brenden Bates",
       "TE",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Elijah Arroyo",
       "TE",
-      null,
+      "",
       "",
       "2"
     ],
     [
       "Jackson Hawes",
       "TE",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Robbie Ouzts",
       "TE",
-      null,
+      "",
       "IR",
       "0"
     ],
     [
       "Nick Kallerup",
       "TE",
-      null,
+      "",
       "",
       "0"
     ],
     [
       "Matt Prater",
       "K",
-      null,
+      "",
       "",
       "10"
     ],
     [
       "Justin Tucker",
       "K",
-      null,
+      "",
       "SUSP",
       "1"
     ],
     [
       "Jason Myers",
       "K",
-      null,
+      "",
       "",
       "31"
     ],
     [
       "Tyler Bass",
       "K",
-      null,
+      "",
       "IR",
       "8"
     ],
     [
       "Tyler Loop",
       "K",
-      null,
+      "",
       "",
       "13"
     ],
     [
       "Tampa Bay",
       "DEF",
-      null,
+      "",
       "",
       "10"
     ],
     [
       "Baltimore",
       "DEF",
-      null,
+      "",
       "",
       "31"
     ]
