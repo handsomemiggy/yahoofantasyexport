@@ -3,7 +3,7 @@
     "league_id": "461.l.450439",
     "league_name": "Punting to Sweet Fantastic",
     "season": 2025,
-    "generated_at": "2025-10-20T13:12:51.627252+00:00"
+    "generated_at": "2025-10-22T13:04:34.876085+00:00"
   },
   "standings": [
     [
@@ -16,94 +16,94 @@
       "Points Against"
     ],
     [
+      "461.l.450439.t.4",
+      "Who\u2019s That Giiiirl",
+      6,
+      1,
+      0,
+      937.58,
+      786.0600000000001
+    ],
+    [
       "461.l.450439.t.5",
       "Nick Miller's Boys",
       5,
-      1,
+      2,
       0,
-      827.78,
-      644.52
-    ],
-    [
-      "461.l.450439.t.4",
-      "Who\u2019s That Giiiirl",
-      5,
-      1,
-      0,
-      790.32,
-      664.4200000000001
+      949.42,
+      791.78
     ],
     [
       "461.l.450439.t.6",
       "Dr. Slobberknocker",
       4,
-      2,
+      3,
       0,
-      809.56,
-      767.02
+      916.9,
+      935.8399999999999
     ],
     [
       "461.l.450439.t.1",
       "Sit bitch or don't sit at all",
-      3,
+      4,
       3,
       0,
-      740.86,
-      700.0799999999999
+      868.1,
+      814.9799999999999
+    ],
+    [
+      "461.l.450439.t.9",
+      "Colinizers",
+      4,
+      3,
+      0,
+      828.18,
+      837.74
+    ],
+    [
+      "461.l.450439.t.2",
+      "The Champ",
+      3,
+      4,
+      0,
+      899.2,
+      866.8800000000001
+    ],
+    [
+      "461.l.450439.t.7",
+      "Dicker Down",
+      3,
+      4,
+      0,
+      815.94,
+      790.1800000000001
     ],
     [
       "461.l.450439.t.10",
       "Hubba Hubba",
       3,
-      3,
-      0,
-      699.08,
-      783.98
-    ],
-    [
-      "461.l.450439.t.9",
-      "Colinizers",
-      3,
-      3,
-      0,
-      672.5,
-      728.9
-    ],
-    [
-      "461.l.450439.t.2",
-      "The Champ",
-      2,
       4,
       0,
-      730.38,
-      759.5400000000001
-    ],
-    [
-      "461.l.450439.t.7",
-      "Dicker Down",
-      2,
-      4,
-      0,
-      671.88,
-      697.48
+      791.78,
+      928.04
     ],
     [
       "461.l.450439.t.8",
       "Backfield Penetration",
       2,
-      4,
+      5,
       0,
-      632.2,
-      725.0799999999999
+      741.04,
+      880.76
     ],
     [
       "461.l.450439.t.3",
       "Winnie the Bisch",
       1,
-      5,
+      6,
       0,
-      665.4,
-      768.94
+      780.3,
+      896.1800000000001
     ]
   ],
   "rosters": [
@@ -116,6 +116,156 @@
       "NFL Team",
       "Status",
       "Ownership%"
+    ],
+    [
+      "461.l.450439.t.4",
+      "Who\u2019s That Giiiirl",
+      "Courtney",
+      "Jordan Love",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.4",
+      "Who\u2019s That Giiiirl",
+      "Courtney",
+      "DeVonta Smith",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.4",
+      "Who\u2019s That Giiiirl",
+      "Courtney",
+      "George Pickens",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.4",
+      "Who\u2019s That Giiiirl",
+      "Courtney",
+      "Isiah Pacheco",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.4",
+      "Who\u2019s That Giiiirl",
+      "Courtney",
+      "Jake Ferguson",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.4",
+      "Who\u2019s That Giiiirl",
+      "Courtney",
+      "Jaxon Smith-Njigba",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.4",
+      "Who\u2019s That Giiiirl",
+      "Courtney",
+      "Javonte Williams",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.4",
+      "Who\u2019s That Giiiirl",
+      "Courtney",
+      "Derrick Henry",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.4",
+      "Who\u2019s That Giiiirl",
+      "Courtney",
+      "Lamar Jackson",
+      "QB",
+      "",
+      "Q",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.4",
+      "Who\u2019s That Giiiirl",
+      "Courtney",
+      "David Njoku",
+      "TE",
+      "",
+      "Q",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.4",
+      "Who\u2019s That Giiiirl",
+      "Courtney",
+      "Malik Nabers",
+      "WR",
+      "",
+      "IR",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.4",
+      "Who\u2019s That Giiiirl",
+      "Courtney",
+      "D'Andre Swift",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.4",
+      "Who\u2019s That Giiiirl",
+      "Courtney",
+      "Matthew Golden",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.4",
+      "Who\u2019s That Giiiirl",
+      "Courtney",
+      "Chase McLaughlin",
+      "K",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.4",
+      "Who\u2019s That Giiiirl",
+      "Courtney",
+      "Pittsburgh",
+      "DEF",
+      "",
+      "",
+      "N/A"
     ],
     [
       "461.l.450439.t.5",
@@ -214,7 +364,7 @@
       "Bucky Irving",
       "RB",
       "",
-      "O",
+      "Q",
       "N/A"
     ],
     [
@@ -285,156 +435,6 @@
       "WR",
       "",
       "IR",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.4",
-      "Who\u2019s That Giiiirl",
-      "Courtney",
-      "Jordan Love",
-      "QB",
-      "",
-      "",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.4",
-      "Who\u2019s That Giiiirl",
-      "Courtney",
-      "DeVonta Smith",
-      "WR",
-      "",
-      "",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.4",
-      "Who\u2019s That Giiiirl",
-      "Courtney",
-      "George Pickens",
-      "WR",
-      "",
-      "",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.4",
-      "Who\u2019s That Giiiirl",
-      "Courtney",
-      "Isiah Pacheco",
-      "RB",
-      "",
-      "",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.4",
-      "Who\u2019s That Giiiirl",
-      "Courtney",
-      "Jake Ferguson",
-      "TE",
-      "",
-      "",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.4",
-      "Who\u2019s That Giiiirl",
-      "Courtney",
-      "Jaxon Smith-Njigba",
-      "WR",
-      "",
-      "",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.4",
-      "Who\u2019s That Giiiirl",
-      "Courtney",
-      "Javonte Williams",
-      "RB",
-      "",
-      "",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.4",
-      "Who\u2019s That Giiiirl",
-      "Courtney",
-      "Derrick Henry",
-      "RB",
-      "",
-      "",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.4",
-      "Who\u2019s That Giiiirl",
-      "Courtney",
-      "Lamar Jackson",
-      "QB",
-      "",
-      "O",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.4",
-      "Who\u2019s That Giiiirl",
-      "Courtney",
-      "David Njoku",
-      "TE",
-      "",
-      "O",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.4",
-      "Who\u2019s That Giiiirl",
-      "Courtney",
-      "Malik Nabers",
-      "WR",
-      "",
-      "IR",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.4",
-      "Who\u2019s That Giiiirl",
-      "Courtney",
-      "D'Andre Swift",
-      "RB",
-      "",
-      "",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.4",
-      "Who\u2019s That Giiiirl",
-      "Courtney",
-      "Matthew Golden",
-      "WR",
-      "",
-      "",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.4",
-      "Who\u2019s That Giiiirl",
-      "Courtney",
-      "Chase McLaughlin",
-      "K",
-      "",
-      "",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.4",
-      "Who\u2019s That Giiiirl",
-      "Courtney",
-      "Pittsburgh",
-      "DEF",
-      "",
-      "",
       "N/A"
     ],
     [
@@ -524,7 +524,7 @@
       "Terry McLaurin",
       "WR",
       "",
-      "O",
+      "Q",
       "N/A"
     ],
     [
@@ -674,7 +674,7 @@
       "Deebo Samuel",
       "WR",
       "",
-      "O",
+      "Q",
       "N/A"
     ],
     [
@@ -704,7 +704,7 @@
       "Mike Evans",
       "WR",
       "",
-      "Q",
+      "O",
       "N/A"
     ],
     [
@@ -748,156 +748,6 @@
       "N/A"
     ],
     [
-      "461.l.450439.t.10",
-      "Hubba Hubba",
-      "Justin",
-      "Josh Allen",
-      "QB",
-      "",
-      "",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.10",
-      "Hubba Hubba",
-      "Justin",
-      "Brian Thomas Jr.",
-      "WR",
-      "",
-      "Q",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.10",
-      "Hubba Hubba",
-      "Justin",
-      "Jakobi Meyers",
-      "WR",
-      "",
-      "O",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.10",
-      "Hubba Hubba",
-      "Justin",
-      "Christian McCaffrey",
-      "RB",
-      "",
-      "",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.10",
-      "Hubba Hubba",
-      "Justin",
-      "Dalton Schultz",
-      "TE",
-      "",
-      "",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.10",
-      "Hubba Hubba",
-      "Justin",
-      "Ricky Pearsall",
-      "WR",
-      "",
-      "O",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.10",
-      "Hubba Hubba",
-      "Justin",
-      "Courtland Sutton",
-      "WR",
-      "",
-      "",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.10",
-      "Hubba Hubba",
-      "Justin",
-      "TreVeyon Henderson",
-      "RB",
-      "",
-      "",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.10",
-      "Hubba Hubba",
-      "Justin",
-      "Chuba Hubbard",
-      "RB",
-      "",
-      "",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.10",
-      "Hubba Hubba",
-      "Justin",
-      "George Kittle",
-      "TE",
-      "",
-      "",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.10",
-      "Hubba Hubba",
-      "Justin",
-      "Jameson Williams",
-      "WR",
-      "",
-      "",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.10",
-      "Hubba Hubba",
-      "Justin",
-      "Brock Purdy",
-      "QB",
-      "",
-      "O",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.10",
-      "Hubba Hubba",
-      "Justin",
-      "Josh Downs",
-      "WR",
-      "",
-      "O",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.10",
-      "Hubba Hubba",
-      "Justin",
-      "Wil Lutz",
-      "K",
-      "",
-      "",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.10",
-      "Hubba Hubba",
-      "Justin",
-      "Minnesota",
-      "DEF",
-      "",
-      "",
-      "N/A"
-    ],
-    [
       "461.l.450439.t.9",
       "Colinizers",
       "Mike",
@@ -931,7 +781,7 @@
       "461.l.450439.t.9",
       "Colinizers",
       "Mike",
-      "Kyren Williams",
+      "Quinshon Judkins",
       "RB",
       "",
       "",
@@ -971,6 +821,16 @@
       "461.l.450439.t.9",
       "Colinizers",
       "Mike",
+      "Kyren Williams",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.9",
+      "Colinizers",
+      "Mike",
       "Jaylen Warren",
       "RB",
       "",
@@ -983,16 +843,6 @@
       "Mike",
       "Kendrick Bourne",
       "WR",
-      "",
-      "",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.9",
-      "Colinizers",
-      "Mike",
-      "Quinshon Judkins",
-      "RB",
       "",
       "",
       "N/A"
@@ -1124,7 +974,7 @@
       "Garrett Wilson",
       "WR",
       "",
-      "O",
+      "Q",
       "N/A"
     ],
     [
@@ -1154,7 +1004,7 @@
       "Calvin Ridley",
       "WR",
       "",
-      "O",
+      "Q",
       "N/A"
     ],
     [
@@ -1231,68 +1081,8 @@
       "461.l.450439.t.7",
       "Dicker Down",
       "alex",
-      "Travis Etienne Jr.",
-      "RB",
-      "",
-      "",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.7",
-      "Dicker Down",
-      "alex",
-      "Trey McBride",
-      "TE",
-      "",
-      "",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.7",
-      "Dicker Down",
-      "alex",
-      "Marvin Harrison Jr.",
-      "WR",
-      "",
-      "",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.7",
-      "Dicker Down",
-      "alex",
-      "Nico Collins",
-      "WR",
-      "",
-      "",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.7",
-      "Dicker Down",
-      "alex",
       "Tony Pollard",
       "RB",
-      "",
-      "",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.7",
-      "Dicker Down",
-      "alex",
-      "Keon Coleman",
-      "WR",
-      "",
-      "",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.7",
-      "Dicker Down",
-      "alex",
-      "DJ Moore",
-      "WR",
       "",
       "",
       "N/A"
@@ -1311,7 +1101,67 @@
       "461.l.450439.t.7",
       "Dicker Down",
       "alex",
-      "Geno Smith",
+      "DJ Moore",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.7",
+      "Dicker Down",
+      "alex",
+      "Keon Coleman",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.7",
+      "Dicker Down",
+      "alex",
+      "Nico Collins",
+      "WR",
+      "",
+      "Q",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.7",
+      "Dicker Down",
+      "alex",
+      "Marvin Harrison Jr.",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.7",
+      "Dicker Down",
+      "alex",
+      "Trey McBride",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.7",
+      "Dicker Down",
+      "alex",
+      "Travis Etienne Jr.",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.7",
+      "Dicker Down",
+      "alex",
+      "Bo Nix",
       "QB",
       "",
       "",
@@ -1345,6 +1195,156 @@
       "RB",
       "",
       "IR",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.10",
+      "Hubba Hubba",
+      "Justin",
+      "Josh Allen",
+      "QB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.10",
+      "Hubba Hubba",
+      "Justin",
+      "Brian Thomas Jr.",
+      "WR",
+      "",
+      "Q",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.10",
+      "Hubba Hubba",
+      "Justin",
+      "Jakobi Meyers",
+      "WR",
+      "",
+      "O",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.10",
+      "Hubba Hubba",
+      "Justin",
+      "Christian McCaffrey",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.10",
+      "Hubba Hubba",
+      "Justin",
+      "Dalton Schultz",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.10",
+      "Hubba Hubba",
+      "Justin",
+      "Ricky Pearsall",
+      "WR",
+      "",
+      "Q",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.10",
+      "Hubba Hubba",
+      "Justin",
+      "Courtland Sutton",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.10",
+      "Hubba Hubba",
+      "Justin",
+      "TreVeyon Henderson",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.10",
+      "Hubba Hubba",
+      "Justin",
+      "Chuba Hubbard",
+      "RB",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.10",
+      "Hubba Hubba",
+      "Justin",
+      "George Kittle",
+      "TE",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.10",
+      "Hubba Hubba",
+      "Justin",
+      "Jameson Williams",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.10",
+      "Hubba Hubba",
+      "Justin",
+      "Brock Purdy",
+      "QB",
+      "",
+      "Q",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.10",
+      "Hubba Hubba",
+      "Justin",
+      "Josh Downs",
+      "WR",
+      "",
+      "Q",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.10",
+      "Hubba Hubba",
+      "Justin",
+      "Wil Lutz",
+      "K",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.10",
+      "Hubba Hubba",
+      "Justin",
+      "Minnesota",
+      "DEF",
+      "",
+      "",
       "N/A"
     ],
     [
@@ -1464,7 +1464,7 @@
       "Dalton Kincaid",
       "TE",
       "",
-      "O",
+      "Q",
       "N/A"
     ],
     [
@@ -1551,7 +1551,7 @@
       "461.l.450439.t.3",
       "Winnie the Bisch",
       "Brian",
-      "Jaylen Waddle",
+      "Tee Higgins",
       "WR",
       "",
       "",
@@ -1561,7 +1561,17 @@
       "461.l.450439.t.3",
       "Winnie the Bisch",
       "Brian",
-      "Tee Higgins",
+      "Emeka Egbuka",
+      "WR",
+      "",
+      "",
+      "N/A"
+    ],
+    [
+      "461.l.450439.t.3",
+      "Winnie the Bisch",
+      "Brian",
+      "Jaylen Waddle",
       "WR",
       "",
       "",
@@ -1575,16 +1585,6 @@
       "WR",
       "",
       "",
-      "N/A"
-    ],
-    [
-      "461.l.450439.t.3",
-      "Winnie the Bisch",
-      "Brian",
-      "Emeka Egbuka",
-      "WR",
-      "",
-      "Q",
       "N/A"
     ],
     [
@@ -1657,14 +1657,133 @@
       "Ownership%"
     ],
     [
+      "Aaron Rodgers",
+      "QB",
+      "",
+      "",
+      "34"
+    ],
+    [
+      "Joe Flacco",
+      "QB",
+      "",
+      "",
+      "31"
+    ],
+    [
+      "Josh Johnson",
+      "QB",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Andy Dalton",
+      "QB",
+      "",
+      "",
+      "3"
+    ],
+    [
+      "Tyrod Taylor",
+      "QB",
+      "",
+      "",
+      "2"
+    ],
+    [
+      "Russell Wilson",
+      "QB",
+      "",
+      "",
+      "1"
+    ],
+    [
+      "Kirk Cousins",
+      "QB",
+      "",
+      "",
+      "1"
+    ],
+    [
+      "Case Keenum",
+      "QB",
+      "",
+      "",
+      "0"
+    ],
+    [
       "Teddy Bridgewater",
       "QB",
       "",
-      "Q",
+      "",
+      "0"
+    ],
+    [
+      "Jimmy Garoppolo",
+      "QB",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Jameis Winston",
+      "QB",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Marcus Mariota",
+      "QB",
+      "",
+      "",
+      "2"
+    ],
+    [
+      "Carson Wentz",
+      "QB",
+      "",
+      "",
+      "5"
+    ],
+    [
+      "Jacoby Brissett",
+      "QB",
+      "",
+      "",
+      "2"
+    ],
+    [
+      "Brandon Allen",
+      "QB",
+      "",
+      "",
       "0"
     ],
     [
       "Mitchell Trubisky",
+      "QB",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Deshaun Watson",
+      "QB",
+      "",
+      "PUP-R",
+      "0"
+    ],
+    [
+      "Joshua Dobbs",
+      "QB",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Nick Mullens",
       "QB",
       "",
       "",
@@ -1682,7 +1801,14 @@
       "QB",
       "",
       "",
-      "48"
+      "42"
+    ],
+    [
+      "Mason Rudolph",
+      "QB",
+      "",
+      "",
+      "0"
     ],
     [
       "Kyle Allen",
@@ -1692,11 +1818,81 @@
       "0"
     ],
     [
+      "Kyler Murray",
+      "QB",
+      "",
+      "O",
+      "69"
+    ],
+    [
       "Drew Lock",
       "QB",
       "",
       "",
       "0"
+    ],
+    [
+      "Jarrett Stidham",
+      "QB",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Gardner Minshew",
+      "QB",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Jake Browning",
+      "QB",
+      "",
+      "",
+      "2"
+    ],
+    [
+      "Joe Burrow",
+      "QB",
+      "",
+      "IR",
+      "59"
+    ],
+    [
+      "Tua Tagovailoa",
+      "QB",
+      "",
+      "",
+      "21"
+    ],
+    [
+      "Trevor Lawrence",
+      "QB",
+      "",
+      "",
+      "48"
+    ],
+    [
+      "Zach Wilson",
+      "QB",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Trey Lance",
+      "QB",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Mac Jones",
+      "QB",
+      "",
+      "",
+      "10"
     ],
     [
       "Davis Mills",
@@ -1706,11 +1902,165 @@
       "0"
     ],
     [
+      "Kenny Pickett",
+      "QB",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Malik Willis",
+      "QB",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Sam Howell",
+      "QB",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Skylar Thompson",
+      "QB",
+      "",
+      "IR",
+      "0"
+    ],
+    [
+      "Bryce Young",
+      "QB",
+      "",
+      "D",
+      "18"
+    ],
+    [
       "C.J. Stroud",
       "QB",
       "",
       "",
-      "55"
+      "54"
+    ],
+    [
+      "Anthony Richardson Sr.",
+      "QB",
+      "",
+      "IR",
+      "1"
+    ],
+    [
+      "Will Levis",
+      "QB",
+      "",
+      "IR",
+      "0"
+    ],
+    [
+      "Aidan O'Connell",
+      "QB",
+      "",
+      "IR",
+      "0"
+    ],
+    [
+      "Stetson Bennett IV",
+      "QB",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Tanner McKee",
+      "QB",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Adrian Martinez",
+      "QB",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Tyson Bagent",
+      "QB",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Tommy DeVito",
+      "QB",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Michael Penix Jr.",
+      "QB",
+      "",
+      "Q",
+      "27"
+    ],
+    [
+      "J.J. McCarthy",
+      "QB",
+      "",
+      "Q",
+      "25"
+    ],
+    [
+      "Spencer Rattler",
+      "QB",
+      "",
+      "",
+      "9"
+    ],
+    [
+      "Joe Milton III",
+      "QB",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Emory Jones",
+      "QB",
+      "",
+      "IR",
+      "0"
+    ],
+    [
+      "Kedon Slovis",
+      "QB",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Cam Ward",
+      "QB",
+      "",
+      "",
+      "9"
+    ],
+    [
+      "Tyler Shough",
+      "QB",
+      "",
+      "",
+      "1"
+    ],
+    [
+      "Dillon Gabriel",
+      "QB",
+      "",
+      "",
+      "4"
     ],
     [
       "Jalen Milroe",
@@ -1720,10 +2070,45 @@
       "0"
     ],
     [
-      "Graham Mertz",
+      "Shedeur Sanders",
       "QB",
       "",
       "",
+      "2"
+    ],
+    [
+      "Kyle Juszczyk",
+      "RB",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Ameer Abdullah",
+      "RB",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Michael Burton",
+      "RB",
+      "",
+      "IR",
+      "0"
+    ],
+    [
+      "Raheem Mostert",
+      "RB",
+      "",
+      "",
+      "1"
+    ],
+    [
+      "C.J. Ham",
+      "RB",
+      "",
+      "Q",
       "0"
     ],
     [
@@ -1731,13 +2116,48 @@
       "RB",
       "",
       "NFI-R",
-      "47"
+      "46"
+    ],
+    [
+      "Kareem Hunt",
+      "RB",
+      "",
+      "",
+      "37"
+    ],
+    [
+      "Samaje Perine",
+      "RB",
+      "",
+      "",
+      "1"
+    ],
+    [
+      "Jeremy McNichols",
+      "RB",
+      "",
+      "",
+      "2"
+    ],
+    [
+      "Aaron Jones Sr.",
+      "RB",
+      "",
+      "IR-R",
+      "77"
+    ],
+    [
+      "Austin Ekeler",
+      "RB",
+      "",
+      "IR",
+      "13"
     ],
     [
       "Patrick Ricard",
       "RB",
       "",
-      "O",
+      "Q",
       "0"
     ],
     [
@@ -1752,10 +2172,31 @@
       "RB",
       "",
       "",
-      "66"
+      "64"
     ],
     [
       "Jakob Johnson",
+      "RB",
+      "",
+      "IR",
+      "0"
+    ],
+    [
+      "Miles Sanders",
+      "RB",
+      "",
+      "IR",
+      "1"
+    ],
+    [
+      "Devin Singletary",
+      "RB",
+      "",
+      "",
+      "1"
+    ],
+    [
+      "Alexander Mattison",
       "RB",
       "",
       "IR",
@@ -1766,10 +2207,31 @@
       "RB",
       "",
       "",
-      "10"
+      "12"
     ],
     [
       "Ty Johnson",
+      "RB",
+      "",
+      "",
+      "1"
+    ],
+    [
+      "Travis Homer",
+      "RB",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Andrew Beck",
+      "RB",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Alec Ingold",
       "RB",
       "",
       "",
@@ -1779,7 +2241,42 @@
       "Craig Reynolds",
       "RB",
       "",
+      "Q",
+      "0"
+    ],
+    [
+      "A.J. Dillon",
+      "RB",
       "",
+      "",
+      "0"
+    ],
+    [
+      "Antonio Gibson",
+      "RB",
+      "",
+      "IR",
+      "0"
+    ],
+    [
+      "DeeJay Dallas",
+      "RB",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Patrick Taylor Jr.",
+      "RB",
+      "",
+      "IR",
+      "0"
+    ],
+    [
+      "Salvon Ahmed",
+      "RB",
+      "",
+      "IR",
       "0"
     ],
     [
@@ -1790,7 +2287,147 @@
       "0"
     ],
     [
+      "Najee Harris",
+      "RB",
+      "",
+      "IR",
+      "6"
+    ],
+    [
+      "Michael Carter",
+      "RB",
+      "",
+      "",
+      "30"
+    ],
+    [
+      "Kene Nwangwu",
+      "RB",
+      "",
+      "Q",
+      "0"
+    ],
+    [
+      "Rhamondre Stevenson",
+      "RB",
+      "",
+      "",
+      "83"
+    ],
+    [
+      "Kenneth Gainwell",
+      "RB",
+      "",
+      "",
+      "41"
+    ],
+    [
+      "Elijah Mitchell",
+      "RB",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Khalil Herbert",
+      "RB",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Adam Prentice",
+      "RB",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Velus Jones Jr.",
+      "RB",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Brian Robinson Jr.",
+      "RB",
+      "",
+      "",
+      "30"
+    ],
+    [
       "Dameon Pierce",
+      "RB",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Zamir White",
+      "RB",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Hassan Haskins",
+      "RB",
+      "",
+      "D",
+      "16"
+    ],
+    [
+      "Tyler Allgeier",
+      "RB",
+      "",
+      "",
+      "41"
+    ],
+    [
+      "Jerome Ford",
+      "RB",
+      "",
+      "",
+      "16"
+    ],
+    [
+      "Ty Chandler",
+      "RB",
+      "",
+      "IR",
+      "0"
+    ],
+    [
+      "Tyler Badie",
+      "RB",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Keaontay Ingram",
+      "RB",
+      "",
+      "IR",
+      "0"
+    ],
+    [
+      "Tyler Goodson",
+      "RB",
+      "",
+      "Q",
+      "0"
+    ],
+    [
+      "Bam Knight",
+      "RB",
+      "",
+      "",
+      "21"
+    ],
+    [
+      "Julius Chestnut",
       "RB",
       "",
       "",
@@ -1804,6 +2441,48 @@
       "79"
     ],
     [
+      "Tank Bigsby",
+      "RB",
+      "",
+      "",
+      "18"
+    ],
+    [
+      "Kendre Miller",
+      "RB",
+      "",
+      "IR",
+      "10"
+    ],
+    [
+      "Tyjae Spears",
+      "RB",
+      "",
+      "",
+      "29"
+    ],
+    [
+      "Roschon Johnson",
+      "RB",
+      "",
+      "",
+      "2"
+    ],
+    [
+      "Eric Gray",
+      "RB",
+      "",
+      "PUP-R",
+      "0"
+    ],
+    [
+      "Chris Rodriguez Jr.",
+      "RB",
+      "",
+      "",
+      "4"
+    ],
+    [
       "Kenny McIntosh",
       "RB",
       "",
@@ -1811,116 +2490,53 @@
       "0"
     ],
     [
-      "Jacob Saylors",
+      "Emari Demercado",
       "RB",
       "",
-      "",
-      "0"
-    ],
-    [
-      "Brady Russell",
-      "RB",
-      "",
-      "",
-      "0"
-    ],
-    [
-      "Keaton Mitchell",
-      "RB",
-      "",
-      "",
-      "1"
-    ],
-    [
-      "Sean Tucker",
-      "RB",
-      "",
-      "",
+      "O",
       "10"
-    ],
-    [
-      "Ray Davis",
-      "RB",
-      "",
-      "",
-      "11"
-    ],
-    [
-      "Sione Vaki",
-      "RB",
-      "",
-      "O",
-      "0"
-    ],
-    [
-      "Rasheen Ali",
-      "RB",
-      "",
-      "",
-      "0"
-    ],
-    [
-      "George Holani",
-      "RB",
-      "",
-      "",
-      "0"
-    ],
-    [
-      "British Brooks",
-      "RB",
-      "",
-      "",
-      "0"
-    ],
-    [
-      "Woody Marks",
-      "RB",
-      "",
-      "",
-      "53"
-    ],
-    [
-      "Robbie Ouzts",
-      "RB",
-      "",
-      "IR",
-      "0"
-    ],
-    [
-      "Josh Williams",
-      "RB",
-      "",
-      "O",
-      "0"
-    ],
-    [
-      "Kye Robichaux",
-      "RB",
-      "",
-      "IR",
-      "0"
-    ],
-    [
-      "Jacardia Wright",
-      "RB",
-      "",
-      "O",
-      "0"
     ],
     [
       "DeAndre Hopkins",
       "WR",
       "",
       "",
-      "6"
+      "5"
+    ],
+    [
+      "Adam Thielen",
+      "WR",
+      "",
+      "",
+      "4"
+    ],
+    [
+      "Brandin Cooks",
+      "WR",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "DeAndre Carter",
+      "WR",
+      "",
+      "IR",
+      "0"
     ],
     [
       "Sterling Shepard",
       "WR",
       "",
       "",
-      "15"
+      "13"
+    ],
+    [
+      "Chris Moore",
+      "WR",
+      "",
+      "",
+      "2"
     ],
     [
       "Kalif Raymond",
@@ -1930,25 +2546,88 @@
       "0"
     ],
     [
+      "Zay Jones",
+      "WR",
+      "",
+      "",
+      "0"
+    ],
+    [
       "Curtis Samuel",
       "WR",
       "",
-      "O",
+      "Q",
       "0"
+    ],
+    [
+      "JuJu Smith-Schuster",
+      "WR",
+      "",
+      "",
+      "3"
     ],
     [
       "Chris Godwin Jr.",
       "WR",
       "",
-      "O",
+      "Q",
       "59"
+    ],
+    [
+      "Josh Reynolds",
+      "WR",
+      "",
+      "",
+      "1"
+    ],
+    [
+      "Mack Hollins",
+      "WR",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Jamal Agnew",
+      "WR",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Trent Taylor",
+      "WR",
+      "",
+      "IR",
+      "0"
+    ],
+    [
+      "David Moore",
+      "WR",
+      "",
+      "IR",
+      "0"
+    ],
+    [
+      "Noah Brown",
+      "WR",
+      "",
+      "IR",
+      "0"
+    ],
+    [
+      "Tim Patrick",
+      "WR",
+      "",
+      "Q",
+      "0"
     ],
     [
       "Christian Kirk",
       "WR",
       "",
-      "O",
-      "24"
+      "Q",
+      "21"
     ],
     [
       "Justin Watson",
@@ -1958,7 +2637,133 @@
       "0"
     ],
     [
+      "Cedrick Wilson Jr.",
+      "WR",
+      "",
+      "",
+      "0"
+    ],
+    [
       "Braxton Berrios",
+      "WR",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Allen Lazard",
+      "WR",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Trent Sherfield Sr.",
+      "WR",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "KhaDarel Hodge",
+      "WR",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Hollywood Brown",
+      "WR",
+      "",
+      "",
+      "43"
+    ],
+    [
+      "Hunter Renfrow",
+      "WR",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Darius Slayton",
+      "WR",
+      "",
+      "Q",
+      "17"
+    ],
+    [
+      "Scotty Miller",
+      "WR",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Olamide Zaccheaus",
+      "WR",
+      "",
+      "",
+      "1"
+    ],
+    [
+      "Alex Bachman",
+      "WR",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "D.J. Montgomery",
+      "WR",
+      "",
+      "IR",
+      "0"
+    ],
+    [
+      "Ashton Dulin",
+      "WR",
+      "",
+      "Q",
+      "0"
+    ],
+    [
+      "David Sills V",
+      "WR",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Greg Dortch",
+      "WR",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Gunner Olszewski",
+      "WR",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Brandon Aiyuk",
+      "WR",
+      "",
+      "PUP-R",
+      "41"
+    ],
+    [
+      "Van Jefferson",
+      "WR",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Devin Duvernay",
       "WR",
       "",
       "",
@@ -1970,6 +2775,27 @@
       "",
       "O",
       "0"
+    ],
+    [
+      "Tyler Johnson",
+      "WR",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Darnell Mooney",
+      "WR",
+      "",
+      "",
+      "34"
+    ],
+    [
+      "Nick Westbrook-Ikhine",
+      "WR",
+      "",
+      "",
+      "1"
     ],
     [
       "Rashod Bateman",
@@ -1986,11 +2812,39 @@
       "0"
     ],
     [
+      "Rondale Moore",
+      "WR",
+      "",
+      "IR",
+      "0"
+    ],
+    [
+      "Dee Eskridge",
+      "WR",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Tutu Atwell",
+      "WR",
+      "",
+      "",
+      "3"
+    ],
+    [
       "Joshua Palmer",
       "WR",
       "",
       "Q",
-      "11"
+      "10"
+    ],
+    [
+      "Dyami Brown",
+      "WR",
+      "",
+      "",
+      "2"
     ],
     [
       "Tylan Wallace",
@@ -2000,130 +2854,102 @@
       "0"
     ],
     [
-      "Dareke Young",
+      "Simi Fehoko",
       "WR",
       "",
       "",
       "0"
     ],
     [
-      "Tank Dell",
+      "Ben Skowronek",
+      "WR",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Jahan Dotson",
+      "WR",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Christian Watson",
       "WR",
       "",
       "PUP-R",
+      "11"
+    ],
+    [
+      "Wan'Dale Robinson",
+      "WR",
+      "",
+      "",
+      "70"
+    ],
+    [
+      "John Metchie III",
+      "WR",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Tyquan Thornton",
+      "WR",
+      "",
+      "",
+      "9"
+    ],
+    [
+      "Alec Pierce",
+      "WR",
+      "",
+      "",
+      "19"
+    ],
+    [
+      "Skyy Moore",
+      "WR",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Chris Manhertz",
+      "TE",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Austin Hooper",
+      "TE",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Tyler Higbee",
+      "TE",
+      "",
+      "",
       "1"
     ],
     [
-      "Xavier Hutchinson",
-      "WR",
+      "Mo Alie-Cox",
+      "TE",
       "",
       "",
       "0"
     ],
     [
-      "Jake Bobo",
-      "WR",
+      "Jonnu Smith",
+      "TE",
       "",
       "",
-      "0"
-    ],
-    [
-      "Tyrell Shavers",
-      "WR",
-      "",
-      "",
-      "0"
-    ],
-    [
-      "Ryan Miller",
-      "WR",
-      "",
-      "",
-      "0"
-    ],
-    [
-      "Jalen McMillan",
-      "WR",
-      "",
-      "IR-R",
-      "2"
-    ],
-    [
-      "Devontez Walker",
-      "WR",
-      "",
-      "O",
-      "0"
-    ],
-    [
-      "Dayton Wade",
-      "WR",
-      "",
-      "IR",
-      "0"
-    ],
-    [
-      "Kameron Johnson",
-      "WR",
-      "",
-      "",
-      "2"
-    ],
-    [
-      "Jayden Higgins",
-      "WR",
-      "",
-      "",
-      "13"
-    ],
-    [
-      "Isaac TeSlaa",
-      "WR",
-      "",
-      "",
-      "3"
-    ],
-    [
-      "Jaylin Noel",
-      "WR",
-      "",
-      "",
-      "0"
-    ],
-    [
-      "Tory Horton",
-      "WR",
-      "",
-      "",
-      "5"
-    ],
-    [
-      "LaJohntay Wester",
-      "WR",
-      "",
-      "",
-      "0"
-    ],
-    [
-      "Tez Johnson",
-      "WR",
-      "",
-      "",
-      "16"
-    ],
-    [
-      "Dominic Lovett",
-      "WR",
-      "",
-      "",
-      "0"
-    ],
-    [
-      "Jahmal Banks",
-      "WR",
-      "",
-      "SUSP",
-      "0"
+      "20"
     ],
     [
       "Eric Saubert",
@@ -2133,7 +2959,91 @@
       "0"
     ],
     [
+      "Johnny Mundt",
+      "TE",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Taysom Hill",
+      "TE",
+      "",
+      "",
+      "4"
+    ],
+    [
+      "Robert Tonyan",
+      "TE",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Mike Gesicki",
+      "TE",
+      "",
+      "IR",
+      "2"
+    ],
+    [
+      "Ian Thomas",
+      "TE",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Will Dissly",
+      "TE",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Durham Smythe",
+      "TE",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Tyler Conklin",
+      "TE",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Tanner Hudson",
+      "TE",
+      "",
+      "Q",
+      "0"
+    ],
+    [
       "Ross Dwelley",
+      "TE",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Noah Fant",
+      "TE",
+      "",
+      "",
+      "2"
+    ],
+    [
+      "Drew Sample",
+      "TE",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Josh Oliver",
       "TE",
       "",
       "",
@@ -2147,7 +3057,112 @@
       "1"
     ],
     [
+      "Foster Moreau",
+      "TE",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Tyree Jackson",
+      "TE",
+      "",
+      "IR",
+      "0"
+    ],
+    [
+      "Donald Parham Jr.",
+      "TE",
+      "",
+      "IR",
+      "0"
+    ],
+    [
+      "Cole Kmet",
+      "TE",
+      "",
+      "Q",
+      "3"
+    ],
+    [
+      "Josiah Deguara",
+      "TE",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Adam Trautman",
+      "TE",
+      "",
+      "",
+      "0"
+    ],
+    [
       "Harrison Bryant",
+      "TE",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Colby Parkinson",
+      "TE",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Charlie Woerner",
+      "TE",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Stephen Sullivan",
+      "TE",
+      "",
+      "O",
+      "0"
+    ],
+    [
+      "Pat Freiermuth",
+      "TE",
+      "",
+      "",
+      "9"
+    ],
+    [
+      "Hunter Long",
+      "TE",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Tommy Tremble",
+      "TE",
+      "",
+      "",
+      "1"
+    ],
+    [
+      "John Bates",
+      "TE",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Kylen Granson",
+      "TE",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Luke Farrell",
       "TE",
       "",
       "",
@@ -2161,10 +3176,24 @@
       "0"
     ],
     [
+      "Noah Gray",
+      "TE",
+      "",
+      "",
+      "0"
+    ],
+    [
       "Kenny Yeboah",
       "TE",
       "",
       "IR",
+      "0"
+    ],
+    [
+      "Feleipe Franks",
+      "TE",
+      "",
+      "",
       "0"
     ],
     [
@@ -2182,11 +3211,46 @@
       "0"
     ],
     [
+      "Quintin Morris",
+      "TE",
+      "",
+      "O",
+      "0"
+    ],
+    [
+      "Jack Stoll",
+      "TE",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Jelani Woods",
+      "TE",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Jeremy Ruckert",
+      "TE",
+      "",
+      "",
+      "0"
+    ],
+    [
       "Cade Otton",
       "TE",
       "",
       "",
-      "42"
+      "51"
+    ],
+    [
+      "Daniel Bellinger",
+      "TE",
+      "",
+      "",
+      "0"
     ],
     [
       "Charlie Kolar",
@@ -2203,11 +3267,67 @@
       "6"
     ],
     [
+      "Chig Okonkwo",
+      "TE",
+      "",
+      "",
+      "22"
+    ],
+    [
+      "Teagan Quitoriano",
+      "TE",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "James Mitchell",
+      "TE",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Drew Ogletree",
+      "TE",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Grant Calcaterra",
+      "TE",
+      "",
+      "Q",
+      "0"
+    ],
+    [
+      "Connor Heyward",
+      "TE",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "John FitzPatrick",
+      "TE",
+      "",
+      "",
+      "0"
+    ],
+    [
       "Ko Kieft",
       "TE",
       "",
       "IR",
       "0"
+    ],
+    [
+      "Jake Tonges",
+      "TE",
+      "",
+      "",
+      "5"
     ],
     [
       "Zaire Mitchell-Paden",
@@ -2217,81 +3337,25 @@
       "0"
     ],
     [
-      "Payne Durham",
-      "TE",
+      "Nick Folk",
+      "K",
       "",
       "",
-      "0"
-    ],
-    [
-      "Brady Russell",
-      "TE",
-      "",
-      "",
-      "0"
-    ],
-    [
-      "Cade Stover",
-      "TE",
-      "",
-      "IR",
-      "0"
-    ],
-    [
-      "AJ Barner",
-      "TE",
-      "",
-      "",
-      "17"
-    ],
-    [
-      "Devin Culp",
-      "TE",
-      "",
-      "",
-      "0"
-    ],
-    [
-      "Brenden Bates",
-      "TE",
-      "",
-      "",
-      "0"
-    ],
-    [
-      "Elijah Arroyo",
-      "TE",
-      "",
-      "",
-      "2"
-    ],
-    [
-      "Jackson Hawes",
-      "TE",
-      "",
-      "",
-      "0"
-    ],
-    [
-      "Robbie Ouzts",
-      "TE",
-      "",
-      "IR",
-      "0"
-    ],
-    [
-      "Nick Kallerup",
-      "TE",
-      "",
-      "",
-      "0"
+      "3"
     ],
     [
       "Matt Prater",
       "K",
       "",
       "",
-      "10"
+      "9"
+    ],
+    [
+      "Graham Gano",
+      "K",
+      "",
+      "IR",
+      "0"
     ],
     [
       "Justin Tucker",
@@ -2301,11 +3365,67 @@
       "1"
     ],
     [
+      "Brandon McManus",
+      "K",
+      "",
+      "Q",
+      "9"
+    ],
+    [
+      "Cairo Santos",
+      "K",
+      "",
+      "Q",
+      "1"
+    ],
+    [
       "Jason Myers",
       "K",
       "",
       "",
-      "31"
+      "19"
+    ],
+    [
+      "Ka'imi Fairbairn",
+      "K",
+      "",
+      "",
+      "65"
+    ],
+    [
+      "Daniel Carlson",
+      "K",
+      "",
+      "",
+      "11"
+    ],
+    [
+      "Jason Sanders",
+      "K",
+      "",
+      "IR-R",
+      "7"
+    ],
+    [
+      "Michael Badgley",
+      "K",
+      "",
+      "",
+      "22"
+    ],
+    [
+      "Eddy Pineiro",
+      "K",
+      "",
+      "",
+      "67"
+    ],
+    [
+      "Joey Slye",
+      "K",
+      "",
+      "",
+      "4"
     ],
     [
       "Tyler Bass",
@@ -2315,25 +3435,235 @@
       "8"
     ],
     [
+      "Riley Patterson",
+      "K",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Parker Romo",
+      "K",
+      "",
+      "",
+      "8"
+    ],
+    [
+      "Lucas Havrisik",
+      "K",
+      "",
+      "",
+      "1"
+    ],
+    [
+      "Chad Ryland",
+      "K",
+      "",
+      "",
+      "9"
+    ],
+    [
+      "Blake Grupe",
+      "K",
+      "",
+      "",
+      "3"
+    ],
+    [
+      "Andre Szmyt",
+      "K",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Joshua Karty",
+      "K",
+      "",
+      "",
+      "20"
+    ],
+    [
+      "Will Reichard",
+      "K",
+      "",
+      "",
+      "16"
+    ],
+    [
+      "Spencer Shrader",
+      "K",
+      "",
+      "IR",
+      "2"
+    ],
+    [
+      "Andy Borregales",
+      "K",
+      "",
+      "",
+      "3"
+    ],
+    [
       "Tyler Loop",
       "K",
       "",
       "",
-      "13"
+      "30"
     ],
     [
-      "Tampa Bay",
+      "Ryan Fitzgerald",
+      "K",
+      "",
+      "",
+      "3"
+    ],
+    [
+      "Atlanta",
+      "DEF",
+      "",
+      "",
+      "36"
+    ],
+    [
+      "Chicago",
+      "DEF",
+      "",
+      "",
+      "33"
+    ],
+    [
+      "Cincinnati",
+      "DEF",
+      "",
+      "",
+      "15"
+    ],
+    [
+      "Dallas",
+      "DEF",
+      "",
+      "",
+      "7"
+    ],
+    [
+      "Green Bay",
+      "DEF",
+      "",
+      "",
+      "75"
+    ],
+    [
+      "Tennessee",
+      "DEF",
+      "",
+      "",
+      "1"
+    ],
+    [
+      "Indianapolis",
+      "DEF",
+      "",
+      "",
+      "82"
+    ],
+    [
+      "Las Vegas",
+      "DEF",
+      "",
+      "",
+      "9"
+    ],
+    [
+      "Los Angeles",
+      "DEF",
+      "",
+      "",
+      "48"
+    ],
+    [
+      "Miami",
       "DEF",
       "",
       "",
       "10"
     ],
     [
+      "New Orleans",
+      "DEF",
+      "",
+      "",
+      "5"
+    ],
+    [
+      "New York",
+      "DEF",
+      "",
+      "",
+      "4"
+    ],
+    [
+      "New York",
+      "DEF",
+      "",
+      "",
+      "12"
+    ],
+    [
+      "Philadelphia",
+      "DEF",
+      "",
+      "",
+      "92"
+    ],
+    [
+      "Arizona",
+      "DEF",
+      "",
+      "",
+      "11"
+    ],
+    [
+      "San Francisco",
+      "DEF",
+      "",
+      "",
+      "17"
+    ],
+    [
+      "Tampa Bay",
+      "DEF",
+      "",
+      "",
+      "26"
+    ],
+    [
+      "Washington",
+      "DEF",
+      "",
+      "",
+      "16"
+    ],
+    [
+      "Carolina",
+      "DEF",
+      "",
+      "",
+      "8"
+    ],
+    [
+      "Jacksonville",
+      "DEF",
+      "",
+      "",
+      "12"
+    ],
+    [
       "Baltimore",
       "DEF",
       "",
       "",
-      "31"
+      "32"
     ]
   ],
   "matchups": [
@@ -2356,22 +3686,22 @@
     "logo_url": "https://s.yimg.com/ep/cx/blendr/v2/image-avatar-football-trophy-sf-png_1721783652750.png",
     "draft_status": "postdraft",
     "num_teams": 10,
-    "edit_key": "7",
+    "edit_key": "8",
     "weekly_deadline": "",
     "roster_type": "week",
-    "league_update_timestamp": "1760942301",
+    "league_update_timestamp": "1761116082",
     "scoring_type": "head",
     "league_type": "private",
     "renew": "449_588970",
     "renewed": "",
     "felo_tier": "silver",
     "is_highscore": false,
-    "matchup_week": 7,
+    "matchup_week": 8,
     "iris_group_chat_id": "",
     "allow_add_to_dl_extra_pos": 1,
     "is_pro_league": "0",
     "is_cash_league": "0",
-    "current_week": 7,
+    "current_week": 8,
     "start_week": "1",
     "start_date": "2025-09-04",
     "end_week": "17",
